@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entities article_id="unknown">
+  <entity id="1" start="138" end="141" type="gene/protein" preferred_form="G-protein coupled receptor MAS" original_resource="Protein Ontology" original_id="PR:000001563">MAS</entity>
+  <entity id="2" start="138" end="141" type="disease" preferred_form="Fibrous Dysplasia, Polyostotic" original_resource="CTD (MESH)" original_id="D005359">MAS</entity>
+  <entity id="3" start="138" end="141" type="cellular_component" preferred_form="microtubule organizing center attachment site" original_resource="Gene Ontology" original_id="GO:0034992">MAS</entity>
+  <entity id="4" start="138" end="141" type="gene/protein" preferred_form="proto-oncogene Mas (mouse)" original_resource="Protein Ontology" original_id="PR:P30554">MAS</entity>
+  <entity id="5" start="138" end="141" type="chemical" preferred_form="mugineic acids" original_resource="ChEBI" original_id="CHEBI:25427">MAS</entity>
+  <entity id="6" start="138" end="141" type="gene/protein" preferred_form="malate synthase A" original_resource="Protein Ontology" original_id="PR:000022037">MAS</entity>
+  <entity id="7" start="138" end="141" type="gene/protein" preferred_form="proto-oncogene Mas (rat)" original_resource="Protein Ontology" original_id="PR:P12526">MAS</entity>
+  <entity id="8" start="267" end="270" type="gene/protein" preferred_form="G-protein coupled receptor MAS" original_resource="Protein Ontology" original_id="PR:000001563">MAS</entity>
+  <entity id="9" start="267" end="270" type="disease" preferred_form="Fibrous Dysplasia, Polyostotic" original_resource="CTD (MESH)" original_id="D005359">MAS</entity>
+  <entity id="10" start="267" end="270" type="cellular_component" preferred_form="microtubule organizing center attachment site" original_resource="Gene Ontology" original_id="GO:0034992">MAS</entity>
+  <entity id="11" start="267" end="270" type="gene/protein" preferred_form="proto-oncogene Mas (mouse)" original_resource="Protein Ontology" original_id="PR:P30554">MAS</entity>
+  <entity id="12" start="267" end="270" type="chemical" preferred_form="mugineic acids" original_resource="ChEBI" original_id="CHEBI:25427">MAS</entity>
+  <entity id="13" start="267" end="270" type="gene/protein" preferred_form="malate synthase A" original_resource="Protein Ontology" original_id="PR:000022037">MAS</entity>
+  <entity id="14" start="267" end="270" type="gene/protein" preferred_form="proto-oncogene Mas (rat)" original_resource="Protein Ontology" original_id="PR:P12526">MAS</entity>
+  <entity id="15" start="446" end="449" type="gene/protein" preferred_form="G-protein coupled receptor MAS" original_resource="Protein Ontology" original_id="PR:000001563">MAS</entity>
+  <entity id="16" start="446" end="449" type="disease" preferred_form="Fibrous Dysplasia, Polyostotic" original_resource="CTD (MESH)" original_id="D005359">MAS</entity>
+  <entity id="17" start="446" end="449" type="cellular_component" preferred_form="microtubule organizing center attachment site" original_resource="Gene Ontology" original_id="GO:0034992">MAS</entity>
+  <entity id="18" start="446" end="449" type="gene/protein" preferred_form="proto-oncogene Mas (mouse)" original_resource="Protein Ontology" original_id="PR:P30554">MAS</entity>
+  <entity id="19" start="446" end="449" type="chemical" preferred_form="mugineic acids" original_resource="ChEBI" original_id="CHEBI:25427">MAS</entity>
+  <entity id="20" start="446" end="449" type="gene/protein" preferred_form="malate synthase A" original_resource="Protein Ontology" original_id="PR:000022037">MAS</entity>
+  <entity id="21" start="446" end="449" type="gene/protein" preferred_form="proto-oncogene Mas (rat)" original_resource="Protein Ontology" original_id="PR:P12526">MAS</entity>
+  <entity id="22" start="578" end="581" type="gene/protein" preferred_form="G-protein coupled receptor MAS" original_resource="Protein Ontology" original_id="PR:000001563">MAS</entity>
+  <entity id="23" start="578" end="581" type="disease" preferred_form="Fibrous Dysplasia, Polyostotic" original_resource="CTD (MESH)" original_id="D005359">MAS</entity>
+  <entity id="24" start="578" end="581" type="cellular_component" preferred_form="microtubule organizing center attachment site" original_resource="Gene Ontology" original_id="GO:0034992">MAS</entity>
+  <entity id="25" start="578" end="581" type="gene/protein" preferred_form="proto-oncogene Mas (mouse)" original_resource="Protein Ontology" original_id="PR:P30554">MAS</entity>
+  <entity id="26" start="578" end="581" type="chemical" preferred_form="mugineic acids" original_resource="ChEBI" original_id="CHEBI:25427">MAS</entity>
+  <entity id="27" start="578" end="581" type="gene/protein" preferred_form="malate synthase A" original_resource="Protein Ontology" original_id="PR:000022037">MAS</entity>
+  <entity id="28" start="578" end="581" type="gene/protein" preferred_form="proto-oncogene Mas (rat)" original_resource="Protein Ontology" original_id="PR:P12526">MAS</entity>
+  <entity id="29" start="940" end="945" type="organism" preferred_form="unidentified" original_resource="NCBI Taxonomy" original_id="32644">other</entity>
+</entities>

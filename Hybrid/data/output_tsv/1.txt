@@ -1,0 +1,136 @@
+DOCUMENT ID	TYPE	START POSITION	END POSITION	MATCHED TERM	PREFERRED FORM	ENTITY ID	ZONE	SENTENCE ID	ORIGIN
+unknown	organism	48	51	ray	Dipturus trachyderma	255564		S1	NCBI Taxonomy
+unknown	molecular_function	95	104	oxygenase	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	GO:0016701		S1	Gene Ontology
+unknown	gene/protein	105	109	PIOX	alpha-dioxygenase 1 (Arabidopsis thaliana)	PR:Q9SGH6		S1	Protein Ontology
+unknown	organism	115	120	Oryza	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	115	127	Oryza sativa	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	115	127	Oryza sativa	Oryza sativa (Indica Group) x Oryza nivara	311553		S1	NCBI Taxonomy
+unknown	organism	115	127	Oryza sativa	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	molecular_function	148	157	oxygenase	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	GO:0016701		S2	Gene Ontology
+unknown	gene/protein	158	162	PIOX	alpha-dioxygenase 1 (Arabidopsis thaliana)	PR:Q9SGH6		S2	Protein Ontology
+unknown	chemical	168	172	heme	heme	CHEBI:30413		S2	ChEBI
+unknown	chemical	168	172	heme	ferroheme b	CHEBI:17627		S2	ChEBI
+unknown	chemical	168	172	heme	Heme	D006418		S2	MeSH desc (Chemicals and Drugs)
+unknown	chemical	168	172	heme	heme b	CHEBI:26355		S2	ChEBI
+unknown	cellular_component	184	192	membrane	membrane	GO:0016020		S2	Gene Ontology
+unknown	chemical	204	211	protein	protein	CHEBI:36080		S2	ChEBI
+unknown	gene/protein	204	211	protein	protein	PR:000000001		S2	Protein Ontology
+unknown	cellular_component	204	211	protein	obsolete protein	GO:0003675		S2	Gene Ontology
+unknown	sequence	204	211	protein	polypeptide	SO:0000104		S2	Sequence Ontology
+unknown	chemical	272	288	molecular oxygen	dioxygen	CHEBI:15379		S2	ChEBI
+unknown	chemical	282	288	oxygen	oxygen atom	CHEBI:25805		S2	ChEBI
+unknown	chemical	300	327	polyunsaturated fatty acids	Fatty Acids, Unsaturated	D005231		S2	MeSH desc (Chemicals and Drugs)
+unknown	chemical	300	327	polyunsaturated fatty acids	polyunsaturated fatty acid	CHEBI:26208		S2	ChEBI
+unknown	chemical	316	327	fatty acids	Fatty Acids	D005227		S2	MeSH desc (Chemicals and Drugs)
+unknown	chemical	316	327	fatty acids	fatty acid	CHEBI:35366		S2	ChEBI
+unknown	chemical	322	327	acids	acid	CHEBI:37527		S2	ChEBI
+unknown	chemical	356	370	hydroperoxides	hydroperoxide	CHEBI:35923		S2	ChEBI
+unknown	chemical	356	370	hydroperoxides	peroxol	CHEBI:35924		S2	ChEBI
+unknown	gene/protein	372	376	PIOX	alpha-dioxygenase 1 (Arabidopsis thaliana)	PR:Q9SGH6		S3	Protein Ontology
+unknown	chemical	411	421	fatty-acid	fatty acid	CHEBI:35366		S3	ChEBI
+unknown	chemical	417	421	acid	acid	CHEBI:37527		S3	ChEBI
+unknown	chemical	422	427	alpha	alpha-particle	CHEBI:30216		S3	ChEBI
+unknown	chemical	428	440	dioxygenases	Dioxygenases	D049308		S3	MeSH desc (Chemicals and Drugs)
+unknown	chemical	469	483	cyclooxygenase	Prostaglandin-Endoperoxide Synthases	D011451		S3	MeSH desc (Chemicals and Drugs)
+unknown	chemical	492	506	cyclooxygenase	Prostaglandin-Endoperoxide Synthases	D011451		S3	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	492	508	cyclooxygenase 1	Prostaglandin G/H synthase 1	O62664		S3	Swiss-Prot
+unknown	gene/protein	492	508	cyclooxygenase 1	Prostaglandin G/H synthase 1	Q8HZR1		S3	Swiss-Prot
+unknown	chemical	492	508	cyclooxygenase 1	Cyclooxygenase 1	D051545		S3	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	492	508	cyclooxygenase 1	Prostaglandin G/H synthase 1	P22437		S3	Swiss-Prot
+unknown	gene/protein	492	508	cyclooxygenase 1	Prostaglandin G/H synthase 1	Q63921		S3	Swiss-Prot
+unknown	gene/protein	492	508	cyclooxygenase 1	Prostaglandin G/H synthase 1	P23219		S3	Swiss-Prot
+unknown	gene/protein	492	508	cyclooxygenase 1	Prostaglandin G/H synthase 1	O97554		S3	Swiss-Prot
+unknown	gene/protein	492	508	cyclooxygenase 1	prostaglandin G/H synthase 1	PR:000013427		S3	Protein Ontology
+unknown	gene/protein	492	508	cyclooxygenase 1	Prostaglandin G/H synthase 1	P05979		S3	Swiss-Prot
+unknown	cell_line	509	514	and 2	AND-2	CVCL_B527		S3	Cellosaurus
+unknown	gene/protein	515	518	COX	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	Q3B7D0		S3	Swiss-Prot
+unknown	gene/protein	515	518	COX	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	P36551		S3	Swiss-Prot
+unknown	cell_line	515	518	COX	COX	CVCL_E534		S3	Cellosaurus
+unknown	gene/protein	515	518	COX	Probable oxygen-dependent coproporphyrinogen-III oxidase	Q9UTE2		S3	Swiss-Prot
+unknown	gene/protein	515	518	COX	Oxygen-dependent coproporphyrinogen-III oxidase	Q9V3D2		S3	Swiss-Prot
+unknown	gene/protein	515	518	COX	oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	PR:000005826		S3	Protein Ontology
+unknown	gene/protein	515	518	COX	Oxygen-dependent coproporphyrinogen-III oxidase	P11353		S3	Swiss-Prot
+unknown	gene/protein	515	518	COX	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	P36552		S3	Swiss-Prot
+unknown	gene/protein	515	520	COX-1	prostaglandin G/H synthase 1 (mouse)	PR:P22437		S3	Protein Ontology
+unknown	gene/protein	515	520	COX-1	Prostaglandin G/H synthase 1	O62664		S3	Swiss-Prot
+unknown	gene/protein	515	520	COX-1	prostaglandin G/H synthase 1 (rat)	PR:Q63921		S3	Protein Ontology
+unknown	gene/protein	515	520	COX-1	Prostaglandin G/H synthase 1	Q8HZR1		S3	Swiss-Prot
+unknown	gene/protein	515	520	COX-1	Prostaglandin G/H synthase 1	P22437		S3	Swiss-Prot
+unknown	gene/protein	515	520	COX-1	Prostaglandin G/H synthase 1	Q63921		S3	Swiss-Prot
+unknown	gene/protein	515	520	COX-1	cytochrome c oxidase subunit 1 (zebrafish)	PR:Q9MIY8		S3	Protein Ontology
+unknown	gene/protein	515	520	COX-1	cytochrome c oxidase subunit 1+2 (Dictyostelium discoideum)	PR:O21042		S3	Protein Ontology
+unknown	gene/protein	515	520	COX-1	Prostaglandin G/H synthase 1	P23219		S3	Swiss-Prot
+unknown	gene/protein	515	520	COX-1	Cytokinin dehydrogenase 1	Q9T0N8		S3	Swiss-Prot
+unknown	gene/protein	515	520	COX-1	Prostaglandin G/H synthase 1	O97554		S3	Swiss-Prot
+unknown	gene/protein	515	520	COX-1	prostaglandin G/H synthase 1 (cow)	PR:O62664		S3	Protein Ontology
+unknown	gene/protein	515	520	COX-1	prostaglandin G/H synthase 1	PR:000013427		S3	Protein Ontology
+unknown	gene/protein	515	520	COX-1	Prostaglandin G/H synthase 1	P05979		S3	Swiss-Prot
+unknown	gene/protein	525	528	COX	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	Q3B7D0		S3	Swiss-Prot
+unknown	gene/protein	525	528	COX	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	P36551		S3	Swiss-Prot
+unknown	cell_line	525	528	COX	COX	CVCL_E534		S3	Cellosaurus
+unknown	gene/protein	525	528	COX	Probable oxygen-dependent coproporphyrinogen-III oxidase	Q9UTE2		S3	Swiss-Prot
+unknown	gene/protein	525	528	COX	Oxygen-dependent coproporphyrinogen-III oxidase	Q9V3D2		S3	Swiss-Prot
+unknown	gene/protein	525	528	COX	oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	PR:000005826		S3	Protein Ontology
+unknown	gene/protein	525	528	COX	Oxygen-dependent coproporphyrinogen-III oxidase	P11353		S3	Swiss-Prot
+unknown	gene/protein	525	528	COX	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	P36552		S3	Swiss-Prot
+unknown	gene/protein	525	530	COX-2	Prostaglandin G/H synthase 2	O62698		S3	Swiss-Prot
+unknown	gene/protein	525	530	COX-2	Prostaglandin G/H synthase 2	O62725		S3	Swiss-Prot
+unknown	gene/protein	525	530	COX-2	prostaglandin G/H synthase 2 (rat)	PR:P35355		S3	Protein Ontology
+unknown	gene/protein	525	530	COX-2	Prostaglandin G/H synthase 2	O19183		S3	Swiss-Prot
+unknown	gene/protein	525	530	COX-2	prostaglandin G/H synthase 2 (cow)	PR:O62698		S3	Protein Ontology
+unknown	gene/protein	525	530	COX-2	Prostaglandin G/H synthase 2	P27607		S3	Swiss-Prot
+unknown	gene/protein	525	530	COX-2	prostaglandin G/H synthase 2	PR:000013428		S3	Protein Ontology
+unknown	gene/protein	525	530	COX-2	cytochrome c oxidase subunit 2 (zebrafish)	PR:Q9MIY7		S3	Protein Ontology
+unknown	gene/protein	525	530	COX-2	Prostaglandin G/H synthase 2	P70682		S3	Swiss-Prot
+unknown	gene/protein	525	530	COX-2	Prostaglandin G/H synthase 2	P35354		S3	Swiss-Prot
+unknown	gene/protein	525	530	COX-2	Prostaglandin G/H synthase 2	P35355		S3	Swiss-Prot
+unknown	gene/protein	525	530	COX-2	Prostaglandin G/H synthase 2	P79208		S3	Swiss-Prot
+unknown	gene/protein	525	530	COX-2	Prostaglandin G/H synthase 2	O02768		S3	Swiss-Prot
+unknown	gene/protein	525	530	COX-2	Prostaglandin G/H synthase 2	Q05769		S3	Swiss-Prot
+unknown	gene/protein	525	530	COX-2	prostaglandin G/H synthase 2 (mouse)	PR:Q05769		S3	Protein Ontology
+unknown	gene/protein	551	555	PIOX	alpha-dioxygenase 1 (Arabidopsis thaliana)	PR:Q9SGH6		S4	Protein Ontology
+unknown	organism	561	565	rice	Oryza	D012275		S4	MeSH desc (Organisms)
+unknown	organism	561	565	rice	Oryza sativa	4530		S4	NCBI Taxonomy
+unknown	organism	566	571	Oryza	Oryza	D012275		S4	MeSH desc (Organisms)
+unknown	organism	566	578	Oryza sativa	Oryza	D012275		S4	MeSH desc (Organisms)
+unknown	organism	566	578	Oryza sativa	Oryza sativa (Indica Group) x Oryza nivara	311553		S4	NCBI Taxonomy
+unknown	organism	566	578	Oryza sativa	Oryza sativa	4530		S4	NCBI Taxonomy
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	Q4X1A4		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	Q1DP56		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	L7IBL2		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	A1C6B4		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	P0CT14		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	Q6UQ76		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	B0XS99		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	B2WME4		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	diphosphomevalonate decarboxylase (yeast)	PR:P32377		S4	Protein Ontology
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	A7F8U1		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	Q2U059		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	Q0U6E8		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	diphosphomevalonate decarboxylase	PR:000010785		S4	Protein Ontology
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	Q0CXS6		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	diphosphomevalonate decarboxylase (rat)	PR:Q62967		S4	Protein Ontology
+unknown	chemical	600	603	MPD	2-methylpentane-2,4-diol	CHEBI:62995		S4	ChEBI
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	Q7SA44		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	Q5B0F5		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	A6RGF3		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	B2AND4		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	Q2H2D7		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	A1DGY9		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	A2QD49		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	B6QP49		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	Q874B3		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	Q8NJJ1		S4	Swiss-Prot
+unknown	gene/protein	600	603	MPD	Mannitol-1-phosphate 5-dehydrogenase	B6HRL5		S4	Swiss-Prot
+unknown	chemical	622	629	protein	protein	CHEBI:36080		S4	ChEBI
+unknown	gene/protein	622	629	protein	protein	PR:000000001		S4	Protein Ontology
+unknown	cellular_component	622	629	protein	obsolete protein	GO:0003675		S4	Gene Ontology
+unknown	sequence	622	629	protein	polypeptide	SO:0000104		S4	Sequence Ontology
+unknown	organism	643	654	Escherichia	Escherichia	D004925		S4	MeSH desc (Organisms)
+unknown	organism	643	659	Escherichia coli	Escherichia coli	D004926		S4	MeSH desc (Organisms)
+unknown	organism	643	659	Escherichia coli	Escherichia coli	562		S4	NCBI Taxonomy
+unknown	chemical	697	702	decyl	decyl group	CHEBI:23580		S4	ChEBI
+unknown	chemical	733	742	detergent	detergent	CHEBI:27780		S4	ChEBI
+unknown	chemical	733	742	detergent	Detergents	D003902		S4	MeSH desc (Chemicals and Drugs)
+unknown	chemical	867	872	group	group	CHEBI:24433		S5	ChEBI
+unknown	chemical	978	987	molecules	molecule	CHEBI:25367		S6	ChEBI

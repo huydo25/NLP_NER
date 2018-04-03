@@ -1,0 +1,74 @@
+DOCUMENT ID	TYPE	START POSITION	END POSITION	MATCHED TERM	PREFERRED FORM	ENTITY ID	ZONE	SENTENCE ID	ORIGIN
+unknown	gene/protein	12	18	OsBAK1	LRR receptor kinase BAK1	Q6Z4U4		S1	Swiss-Prot
+unknown	sequence	19	23	gene	gene	SO:0000704		S1	Sequence Ontology
+unknown	organism	55	59	rice	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	55	59	rice	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	organism	173	177	rice	Oryza	D012275		S2	MeSH desc (Organisms)
+unknown	organism	173	177	rice	Oryza sativa	4530		S2	NCBI Taxonomy
+unknown	gene/protein	217	220	can	carbonic anhydrase 2	PR:000034449		S2	Protein Ontology
+unknown	sequence	301	310	regulated	regulated	SO:0000119		S3	Sequence Ontology
+unknown	chemical	314	330	Brassinosteroids	Brassinosteroids	D060406		S3	MeSH desc (Chemicals and Drugs)
+unknown	chemical	314	330	Brassinosteroids	brassinosteroid	CHEBI:22921		S3	ChEBI
+unknown	organism	331	334	BRs	Bovine orthopneumovirus	11246		S3	NCBI Taxonomy
+unknown	organism	338	342	rice	Oryza	D012275		S3	MeSH desc (Organisms)
+unknown	organism	338	342	rice	Oryza sativa	4530		S3	NCBI Taxonomy
+unknown	gene/protein	354	357	far	elongation factor G	PR:000022738		S4	Protein Ontology
+unknown	gene/protein	376	379	can	carbonic anhydrase 2	PR:000034449		S4	Protein Ontology
+unknown	organism	414	418	rice	Oryza	D012275		S4	MeSH desc (Organisms)
+unknown	organism	414	418	rice	Oryza sativa	4530		S4	NCBI Taxonomy
+unknown	gene/protein	440	446	OsBAK1	LRR receptor kinase BAK1	Q6Z4U4		S5	Swiss-Prot
+unknown	sequence	462	466	gene	gene	SO:0000704		S5	Sequence Ontology
+unknown	organism	476	480	rice	Oryza	D012275		S5	MeSH desc (Organisms)
+unknown	organism	476	480	rice	Oryza sativa	4530		S5	NCBI Taxonomy
+unknown	organism	504	508	rice	Oryza	D012275		S6	MeSH desc (Organisms)
+unknown	organism	504	508	rice	Oryza sativa	4530		S6	NCBI Taxonomy
+unknown	sequence	509	515	genome	genome	SO:0001026		S6	Sequence Ontology
+unknown	organism	560	571	Arabidopsis	Arabidopsis	D017360		S6	MeSH desc (Organisms)
+unknown	gene/protein	572	575	BAK	bcl-2 homologous antagonist/killer (mouse)	PR:O08734		S6	Protein Ontology
+unknown	gene/protein	572	575	BAK	bcl-2 homologous antagonist/killer	PR:000002185		S6	Protein Ontology
+unknown	gene/protein	572	576	BAK1	bcl-2 homologous antagonist/killer	PR:000002185		S6	Protein Ontology
+unknown	gene/protein	577	583	AtBAK1	BRASSINOSTEROID INSENSITIVE 1-associated receptor kinase 1	Q94F62		S6	Swiss-Prot
+unknown	sequence	584	588	gene	gene	SO:0000704		S6	Sequence Ontology
+unknown	organism	653	664	Arabidopsis	Arabidopsis	D017360		S7	MeSH desc (Organisms)
+unknown	gene/protein	672	675	bri	Integral membrane protein 2B	Q5XIE8		S7	Swiss-Prot
+unknown	gene/protein	672	675	bri	Integral membrane protein 2B	O89051		S7	Swiss-Prot
+unknown	gene/protein	672	675	bri	Integral membrane protein 2B	Q3T0P7		S7	Swiss-Prot
+unknown	gene/protein	672	675	bri	Integral membrane protein 2B	Q5R876		S7	Swiss-Prot
+unknown	gene/protein	672	675	bri	Integral membrane protein 2B	A5A6H8		S7	Swiss-Prot
+unknown	gene/protein	672	675	bri	Integral membrane protein 2B	Q60HC1		S7	Swiss-Prot
+unknown	gene/protein	672	675	bri	Integral membrane protein 2B	Q9Y287		S7	Swiss-Prot
+unknown	gene/protein	672	675	bri	integral membrane protein 2B	PR:000032246		S7	Protein Ontology
+unknown	gene/protein	672	675	bri	Integral membrane protein 2B	Q52N47		S7	Swiss-Prot
+unknown	gene/protein	672	676	bri1	protein brassinosteroid insensitive 1	PR:000028353		S7	Protein Ontology
+unknown	gene/protein	694	700	OsBAK1	LRR receptor kinase BAK1	Q6Z4U4		S7	Swiss-Prot
+unknown	gene/protein	741	747	AtBAK1	BRASSINOSTEROID INSENSITIVE 1-associated receptor kinase 1	Q94F62		S7	Swiss-Prot
+unknown	gene/protein	831	837	OsBAK1	LRR receptor kinase BAK1	Q6Z4U4		S8	Swiss-Prot
+unknown	sequence	841	850	conserved	conserved	SO:0000856		S8	Sequence Ontology
+unknown	gene/protein	856	862	AtBAK1	BRASSINOSTEROID INSENSITIVE 1-associated receptor kinase 1	Q94F62		S8	Swiss-Prot
+unknown	cellular_component	894	907	intracellular	intracellular	GO:0005622		S9	Gene Ontology
+unknown	sequence	908	914	domain	polypeptide_domain	SO:0000417		S9	Sequence Ontology
+unknown	gene/protein	918	924	OsBAK1	LRR receptor kinase BAK1	Q6Z4U4		S9	Swiss-Prot
+unknown	cellular_component	938	951	extracellular	extracellular region	GO:0005576		S9	Gene Ontology
+unknown	sequence	952	958	domain	polypeptide_domain	SO:0000417		S9	Sequence Ontology
+unknown	gene/protein	962	968	OsBAK1	LRR receptor kinase BAK1	Q6Z4U4		S9	Swiss-Prot
+unknown	organism	1018	1022	rice	Oryza	D012275		S9	MeSH desc (Organisms)
+unknown	organism	1018	1022	rice	Oryza sativa	4530		S9	NCBI Taxonomy
+unknown	gene/protein	1071	1077	OsBAK1	LRR receptor kinase BAK1	Q6Z4U4		S10	Swiss-Prot
+unknown	gene/protein	1109	1115	traits	ELL-associated factor 2 (rat)	PR:Q811X5		S10	Protein Ontology
+unknown	gene/protein	1109	1115	traits	ELL-associated factor 2	PR:000006862		S10	Protein Ontology
+unknown	gene/protein	1109	1115	traits	ELL-associated factor 2 (mouse)	PR:Q91ZD6		S10	Protein Ontology
+unknown	organism	1119	1123	rice	Oryza	D012275		S10	MeSH desc (Organisms)
+unknown	organism	1119	1123	rice	Oryza sativa	4530		S10	NCBI Taxonomy
+unknown	disease	1194	1201	disease	Disease	D004194		S10	MeSH desc (Diseases)
+unknown	biological_process	1194	1212	disease resistance	obsolete disease resistance	GO:0009614		S10	Gene Ontology
+unknown	disease	1194	1212	disease resistance	Disease Resistance	D060467		S10	MeSH desc (Diseases)
+unknown	organism	1257	1261	rice	Oryza	D012275		S11	MeSH desc (Organisms)
+unknown	organism	1257	1261	rice	Oryza sativa	4530		S11	NCBI Taxonomy
+unknown	biological_process	1297	1309	reproduction	reproduction	GO:0000003		S11	Gene Ontology
+unknown	gene/protein	1310	1313	can	carbonic anhydrase 2	PR:000034449		S11	Protein Ontology
+unknown	gene/protein	1373	1379	OsBAK1	LRR receptor kinase BAK1	Q6Z4U4		S11	Swiss-Prot
+unknown	gene/protein	1392	1398	OsBAK1	LRR receptor kinase BAK1	Q6Z4U4		S12	Swiss-Prot
+unknown	organism	1452	1456	rice	Oryza	D012275		S12	MeSH desc (Organisms)
+unknown	organism	1452	1456	rice	Oryza sativa	4530		S12	NCBI Taxonomy
+unknown	organism	1482	1486	rice	Oryza	D012275		S12	MeSH desc (Organisms)
+unknown	organism	1482	1486	rice	Oryza sativa	4530		S12	NCBI Taxonomy

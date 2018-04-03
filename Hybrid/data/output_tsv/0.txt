@@ -1,0 +1,150 @@
+DOCUMENT ID	TYPE	START POSITION	END POSITION	MATCHED TERM	PREFERRED FORM	ENTITY ID	ZONE	SENTENCE ID	ORIGIN
+unknown	organism	24	28	rice	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	24	28	rice	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	chemical	29	34	alpha	alpha-particle	CHEBI:30216		S1	ChEBI
+unknown	molecular_function	35	44	oxygenase	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	GO:0016701		S1	Gene Ontology
+unknown	chemical	74	87	prostaglandin	prostaglandin	CHEBI:26333		S2	ChEBI
+unknown	chemical	101	123	Long-chain fatty acids	long-chain fatty acid	CHEBI:15904		S3	ChEBI
+unknown	sequence	106	111	chain	mature_protein_region	SO:0000419		S3	Sequence Ontology
+unknown	chemical	112	123	fatty acids	Fatty Acids	D005227		S3	MeSH desc (Chemicals and Drugs)
+unknown	chemical	112	123	fatty acids	fatty acid	CHEBI:35366		S3	ChEBI
+unknown	chemical	118	123	acids	acid	CHEBI:37527		S3	ChEBI
+unknown	gene/protein	124	127	can	carbonic anhydrase 2	PR:000034449		S3	Protein Ontology
+unknown	gene/protein	146	150	Cn-1	beta-Ala-His dipeptidase (rat)	PR:Q66HG3		S3	Protein Ontology
+unknown	gene/protein	146	150	Cn-1	beta-Ala-His dipeptidase	PR:000005628		S3	Protein Ontology
+unknown	gene/protein	146	150	Cn-1	beta-Ala-His dipeptidase (mouse)	PR:Q8BUG2		S3	Protein Ontology
+unknown	chemical	151	160	aldehydes	Aldehydes	D000447		S3	MeSH desc (Chemicals and Drugs)
+unknown	chemical	151	160	aldehydes	aldehyde	CHEBI:17478		S3	ChEBI
+unknown	chemical	164	169	alpha	alpha-particle	CHEBI:30216		S3	ChEBI
+unknown	chemical	279	289	nucleotide	nucleotide	CHEBI:36976		S5	ChEBI
+unknown	sequence	290	298	sequence	region	SO:0000001		S5	Sequence Ontology
+unknown	chemical	302	312	fatty acid	fatty acid	CHEBI:35366		S5	ChEBI
+unknown	chemical	308	312	acid	acid	CHEBI:37527		S5	ChEBI
+unknown	chemical	313	318	alpha	alpha-particle	CHEBI:30216		S5	ChEBI
+unknown	molecular_function	319	328	oxygenase	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	GO:0016701		S5	Gene Ontology
+unknown	sequence	329	333	gene	gene	SO:0000704		S5	Sequence Ontology
+unknown	organism	337	341	rice	Oryza	D012275		S5	MeSH desc (Organisms)
+unknown	organism	337	341	rice	Oryza sativa	4530		S5	NCBI Taxonomy
+unknown	organism	349	354	Oryza	Oryza	D012275		S5	MeSH desc (Organisms)
+unknown	organism	349	361	Oryza sativa	Oryza	D012275		S5	MeSH desc (Organisms)
+unknown	organism	349	361	Oryza sativa	Oryza sativa (Indica Group) x Oryza nivara	311553		S5	NCBI Taxonomy
+unknown	organism	349	361	Oryza sativa	Oryza sativa	4530		S5	NCBI Taxonomy
+unknown	chemical	388	393	amino	primary amino group	CHEBI:46882		S6	ChEBI
+unknown	chemical	388	398	amino acid	amino acid	CHEBI:33709		S6	ChEBI
+unknown	chemical	388	398	amino acid	alpha-amino acid	CHEBI:33704		S6	ChEBI
+unknown	sequence	388	398	amino acid	amino_acid	SO:0001237		S6	Sequence Ontology
+unknown	chemical	394	398	acid	acid	CHEBI:37527		S6	ChEBI
+unknown	sequence	399	407	sequence	region	SO:0000001		S6	Sequence Ontology
+unknown	chemical	455	468	prostaglandin	prostaglandin	CHEBI:26333		S6	ChEBI
+unknown	sequence	492	496	gene	gene	SO:0000704		S7	Sequence Ontology
+unknown	organism	514	525	Escherichia	Escherichia	D004925		S7	MeSH desc (Organisms)
+unknown	organism	514	530	Escherichia coli	Escherichia coli	D004926		S7	MeSH desc (Organisms)
+unknown	organism	514	530	Escherichia coli	Escherichia coli	562		S7	NCBI Taxonomy
+unknown	chemical	613	626	linoleic acid	linoleic acid	CHEBI:17351		S8	ChEBI
+unknown	chemical	613	626	linoleic acid	Linoleic Acid	D019787		S8	MeSH desc (Chemicals and Drugs)
+unknown	chemical	622	626	acid	acid	CHEBI:37527		S8	ChEBI
+unknown	chemical	654	667	hydroperoxide	hydroperoxide	CHEBI:35923		S8	ChEBI
+unknown	chemical	654	667	hydroperoxide	ROOH	CHEBI:79974		S8	ChEBI
+unknown	chemical	654	667	hydroperoxide	Hydrogen Peroxide	D006861		S8	MeSH desc (Chemicals and Drugs)
+unknown	chemical	675	685	fatty acid	fatty acid	CHEBI:35366		S8	ChEBI
+unknown	chemical	681	685	acid	acid	CHEBI:37527		S8	ChEBI
+unknown	gene/protein	755	759	Cn-1	beta-Ala-His dipeptidase (rat)	PR:Q66HG3		S8	Protein Ontology
+unknown	gene/protein	755	759	Cn-1	beta-Ala-His dipeptidase	PR:000005628		S8	Protein Ontology
+unknown	gene/protein	755	759	Cn-1	beta-Ala-His dipeptidase (mouse)	PR:Q8BUG2		S8	Protein Ontology
+unknown	chemical	760	768	aldehyde	aldehyde	CHEBI:17478		S8	ChEBI
+unknown	chemical	787	801	linoleic acids	Linoleic Acids	D008041		S9	MeSH desc (Chemicals and Drugs)
+unknown	chemical	796	801	acids	acid	CHEBI:37527		S9	ChEBI
+unknown	organism	818	822	rice	Oryza	D012275		S9	MeSH desc (Organisms)
+unknown	organism	818	822	rice	Oryza sativa	4530		S9	NCBI Taxonomy
+unknown	chemical	823	828	alpha	alpha-particle	CHEBI:30216		S9	ChEBI
+unknown	molecular_function	829	838	oxygenase	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	GO:0016701		S9	Gene Ontology
+unknown	chemical	1117	1127	dithionite	dithionite(2-)	CHEBI:42160		S10	ChEBI
+unknown	chemical	1117	1127	dithionite	Dithionite	D004227		S10	MeSH desc (Chemicals and Drugs)
+unknown	sequence	1187	1198	mutagenesis	mutated_variant_site	SO:0001148		S11	Sequence Ontology
+unknown	biological_process	1187	1198	mutagenesis	obsolete mutagenesis	GO:0006280		S11	Gene Ontology
+unknown	chemical	1213	1216	His	L-histidyl group	CHEBI:32514		S11	ChEBI
+unknown	chemical	1213	1216	His	N(2)-L-histidino group	CHEBI:32515		S11	ChEBI
+unknown	chemical	1213	1216	His	L-histidine residue	CHEBI:29979		S11	ChEBI
+unknown	chemical	1213	1216	His	L-histidine	CHEBI:15971		S11	ChEBI
+unknown	sequence	1213	1216	His	histidine	SO:0001452		S11	Sequence Ontology
+unknown	chemical	1222	1225	Tyr	L-tyrosyl group	CHEBI:32764		S11	ChEBI
+unknown	chemical	1222	1225	Tyr	L-tyrosino group	CHEBI:46857		S11	ChEBI
+unknown	chemical	1222	1225	Tyr	L-tyrosine residue	CHEBI:46858		S11	ChEBI
+unknown	chemical	1222	1225	Tyr	L-tyrosinyl radical residue	CHEBI:32766		S11	ChEBI
+unknown	chemical	1222	1225	Tyr	L-tyrosinate residue	CHEBI:29977		S11	ChEBI
+unknown	sequence	1222	1225	Tyr	tyrosine	SO:0001446		S11	Sequence Ontology
+unknown	gene/protein	1222	1225	Tyr	tyrosinase	PR:000016877		S11	Protein Ontology
+unknown	chemical	1222	1225	Tyr	L-tyrosine	CHEBI:17895		S11	ChEBI
+unknown	gene/protein	1222	1225	Tyr	tyramine/octopamine receptor (fruit fly)	PR:P22270		S11	Protein Ontology
+unknown	chemical	1222	1225	Tyr	tyrosine	CHEBI:18186		S11	ChEBI
+unknown	chemical	1235	1238	Ser	L-serino group	CHEBI:32839		S11	ChEBI
+unknown	chemical	1235	1238	Ser	L-serine	CHEBI:17115		S11	ChEBI
+unknown	sequence	1235	1238	Ser	serine	SO:0001444		S11	Sequence Ontology
+unknown	chemical	1235	1238	Ser	L-seryl group	CHEBI:32838		S11	ChEBI
+unknown	gene/protein	1235	1238	Ser	sialoadhesin	PR:000001931		S11	Protein Ontology
+unknown	cellular_component	1235	1238	Ser	smooth endoplasmic reticulum	GO:0005790		S11	Gene Ontology
+unknown	chemical	1235	1238	Ser	L-serine residue	CHEBI:29999		S11	ChEBI
+unknown	gene/protein	1235	1238	Ser	Sialoadhesin	Q62230		S11	Swiss-Prot
+unknown	chemical	1266	1271	alpha	alpha-particle	CHEBI:30216		S11	ChEBI
+unknown	molecular_function	1272	1281	oxygenase	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	GO:0016701		S11	Gene Ontology
+unknown	sequence	1311	1320	conserved	conserved	SO:0000856		S12	Sequence Ontology
+unknown	chemical	1344	1348	heme	heme	CHEBI:30413		S12	ChEBI
+unknown	chemical	1344	1348	heme	ferroheme b	CHEBI:17627		S12	ChEBI
+unknown	chemical	1344	1348	heme	Heme	D006418		S12	MeSH desc (Chemicals and Drugs)
+unknown	chemical	1344	1348	heme	heme b	CHEBI:26355		S12	ChEBI
+unknown	molecular_function	1349	1355	ligand	binding	GO:0005488		S12	Gene Ontology
+unknown	chemical	1349	1355	ligand	ligand	CHEBI:52214		S12	ChEBI
+unknown	chemical	1371	1378	radical	radical	CHEBI:26519		S12	ChEBI
+unknown	sequence	1456	1463	binding	non_covalent_binding_site	SO:0001091		S12	Sequence Ontology
+unknown	molecular_function	1456	1463	binding	binding	GO:0005488		S12	Gene Ontology
+unknown	sequence	1456	1463	binding	polypeptide_binding_motif	SO:0100018		S12	Sequence Ontology
+unknown	chemical	1555	1560	alpha	alpha-particle	CHEBI:30216		S13	ChEBI
+unknown	molecular_function	1561	1570	oxygenase	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	GO:0016701		S13	Gene Ontology
+unknown	organism	1616	1620	rice	Oryza	D012275		S14	MeSH desc (Organisms)
+unknown	organism	1616	1620	rice	Oryza sativa	4530		S14	NCBI Taxonomy
+unknown	chemical	1621	1626	alpha	alpha-particle	CHEBI:30216		S14	ChEBI
+unknown	molecular_function	1627	1636	oxygenase	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	GO:0016701		S14	Gene Ontology
+unknown	chemical	1663	1672	imidazole	1H-imidazole	CHEBI:16069		S14	ChEBI
+unknown	chemical	1663	1672	imidazole	imidazolium cation	CHEBI:50059		S14	ChEBI
+unknown	chemical	1663	1672	imidazole	imidazole	C029899		S14	MeSH supp (Chemicals and Drugs)
+unknown	chemical	1663	1672	imidazole	imidazole	CHEBI:14434		S14	ChEBI
+unknown	chemical	1710	1733	anti-inflammatory drugs	anti-inflammatory drug	CHEBI:35472		S14	ChEBI
+unknown	chemical	1728	1733	drugs	drug	CHEBI:23888		S14	ChEBI
+unknown	chemical	1743	1750	aspirin	Aspirin	D001241		S14	MeSH desc (Chemicals and Drugs)
+unknown	chemical	1743	1750	aspirin	acetylsalicylic acid	CHEBI:15365		S14	ChEBI
+unknown	chemical	1752	1761	ibuprofen	levibuprofen	CHEBI:47835		S14	ChEBI
+unknown	chemical	1752	1761	ibuprofen	ibuprofen	CHEBI:5855		S14	ChEBI
+unknown	chemical	1752	1761	ibuprofen	Ibuprofen	D007052		S14	MeSH desc (Chemicals and Drugs)
+unknown	chemical	1752	1761	ibuprofen	ibuprofen(1-)	CHEBI:132922		S14	ChEBI
+unknown	chemical	1752	1761	ibuprofen	dexibuprofen	CHEBI:43415		S14	ChEBI
+unknown	chemical	1767	1779	flurbiprofen	(S)-flurbiprofen	CHEBI:42446		S14	ChEBI
+unknown	chemical	1767	1779	flurbiprofen	Flurbiprofen	D005480		S14	MeSH desc (Chemicals and Drugs)
+unknown	chemical	1767	1779	flurbiprofen	flurbiprofen	CHEBI:5130		S14	ChEBI
+unknown	chemical	1813	1823	inhibitors	inhibitor	CHEBI:35222		S14	ChEBI
+unknown	gene/protein	1838	1848	peroxidase	Peroxidase	Q05855		S15	Swiss-Prot
+unknown	chemical	1838	1848	peroxidase	Peroxidase	CHEBI:8027		S15	ChEBI
+unknown	chemical	1838	1848	peroxidase	Peroxidase	D009195		S15	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	1838	1848	peroxidase	Peroxidase	P28314		S15	Swiss-Prot
+unknown	gene/protein	1838	1848	peroxidase	Cytochrome P450 119	Q55080		S15	Swiss-Prot
+unknown	gene/protein	1838	1848	peroxidase	Peroxidase	P15984		S15	Swiss-Prot
+unknown	gene/protein	1838	1848	peroxidase	Peroxidase	P28313		S15	Swiss-Prot
+unknown	gene/protein	1838	1848	peroxidase	Peroxidase	B3EWG7		S15	Swiss-Prot
+unknown	gene/protein	1838	1848	peroxidase	Peroxidase	P85317		S15	Swiss-Prot
+unknown	gene/protein	1838	1848	peroxidase	Peroxidase	A8NK72		S15	Swiss-Prot
+unknown	gene/protein	1838	1848	peroxidase	Peroxidase	Q01603		S15	Swiss-Prot
+unknown	gene/protein	1838	1848	peroxidase	Peroxidase	P84714		S15	Swiss-Prot
+unknown	gene/protein	1838	1848	peroxidase	Peroxidase	P16147		S15	Swiss-Prot
+unknown	gene/protein	1838	1848	peroxidase	Purple acid phosphatase 17	Q9SCX8		S15	Swiss-Prot
+unknown	gene/protein	1838	1848	peroxidase	Peroxidase	P85957		S15	Swiss-Prot
+unknown	molecular_function	1838	1857	peroxidase activity	peroxidase activity	GO:0004601		S15	Gene Ontology
+unknown	chemical	1885	1890	alpha	alpha-particle	CHEBI:30216		S15	ChEBI
+unknown	molecular_function	1891	1900	oxygenase	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	GO:0016701		S15	Gene Ontology
+unknown	chemical	1906	1919	palmitic acid	hexadecanoic acid	CHEBI:15756		S15	ChEBI
+unknown	chemical	1906	1919	palmitic acid	Palmitic Acid	D019308		S15	MeSH desc (Chemicals and Drugs)
+unknown	chemical	1915	1919	acid	acid	CHEBI:37527		S15	ChEBI
+unknown	gene/protein	1915	1921	acid 2	prostate tumor-overexpressed gene 1 protein	PR:000013439		S15	Protein Ontology
+unknown	chemical	1922	1935	hydroperoxide	hydroperoxide	CHEBI:35923		S15	ChEBI
+unknown	chemical	1922	1935	hydroperoxide	ROOH	CHEBI:79974		S15	ChEBI
+unknown	chemical	1922	1935	hydroperoxide	Hydrogen Peroxide	D006861		S15	MeSH desc (Chemicals and Drugs)
+unknown	chemical	2016	2021	alpha	alpha-particle	CHEBI:30216		S16	ChEBI
+unknown	molecular_function	2022	2031	oxygenase	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	GO:0016701		S16	Gene Ontology

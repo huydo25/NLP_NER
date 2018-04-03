@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entities article_id="unknown">
+  <entity id="1" start="72" end="75" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="2" start="72" end="75" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="3" start="79" end="83" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="4" start="79" end="83" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+  <entity id="5" start="84" end="89" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza</entity>
+  <entity id="6" start="84" end="96" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza sativa</entity>
+  <entity id="7" start="84" end="96" type="organism" preferred_form="Oryza sativa (Indica Group) x Oryza nivara" original_resource="NCBI Taxonomy" original_id="311553">Oryza sativa</entity>
+  <entity id="8" start="84" end="96" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">Oryza sativa</entity>
+  <entity id="9" start="128" end="131" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="10" start="128" end="131" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="11" start="269" end="275" type="biological_process" preferred_form="growth" original_resource="Gene Ontology" original_id="GO:0040007">growth</entity>
+  <entity id="12" start="318" end="326" type="chemical" preferred_form="electron" original_resource="ChEBI" original_id="CHEBI:10545">electron</entity>
+  <entity id="13" start="482" end="490" type="sequence" preferred_form="sequence_variant_obs" original_resource="Sequence Ontology" original_id="SO:0000109">mutation</entity>
+  <entity id="14" start="511" end="517" type="sequence" preferred_form="single" original_resource="Sequence Ontology" original_id="SO:0000984">single</entity>
+  <entity id="15" start="528" end="532" type="sequence" preferred_form="gene" original_resource="Sequence Ontology" original_id="SO:0000704">gene</entity>
+  <entity id="16" start="545" end="548" type="chemical" preferred_form="sodium 2-amino-5-[(1-methoxy-2-methylindolizin-3-yl)carbonyl]benzoate" original_resource="ChEBI" original_id="CHEBI:73280">SSR</entity>
+  <entity id="17" start="545" end="548" type="cellular_component" preferred_form="subsynaptic reticulum" original_resource="Gene Ontology" original_id="GO:0071212">SSR</entity>
+  <entity id="18" start="565" end="570" type="sequence" preferred_form="indel" original_resource="Sequence Ontology" original_id="SO:1000032">InDel</entity>
+  <entity id="19" start="583" end="586" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="20" start="583" end="586" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="21" start="587" end="591" type="sequence" preferred_form="gene" original_resource="Sequence Ontology" original_id="SO:0000704">gene</entity>
+  <entity id="22" start="642" end="645" type="gene/protein" preferred_form="mediator of RNA polymerase II transcription subunit 18 (fruit fly)" original_resource="Protein Ontology" original_id="PR:Q9XZT1">arm</entity>
+  <entity id="23" start="649" end="659" type="sequence" preferred_form="chromosome" original_resource="Sequence Ontology" original_id="SO:0000340">chromosome</entity>
+  <entity id="24" start="649" end="659" type="cellular_component" preferred_form="chromosome" original_resource="Gene Ontology" original_id="GO:0005694">chromosome</entity>
+  <entity id="25" start="704" end="707" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="26" start="704" end="707" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="27" start="747" end="750" type="gene/protein" preferred_form="methionine aminopeptidase" original_resource="Protein Ontology" original_id="PR:000023165">map</entity>
+  <entity id="28" start="747" end="750" type="gene/protein" preferred_form="extracellular adherence protein" original_resource="Protein Ontology" original_id="PR:000029173">map</entity>
+  <entity id="29" start="772" end="775" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="30" start="772" end="775" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="31" start="776" end="780" type="sequence" preferred_form="gene" original_resource="Sequence Ontology" original_id="SO:0000704">gene</entity>
+  <entity id="32" start="789" end="794" type="sequence" preferred_form="indel" original_resource="Sequence Ontology" original_id="SO:1000032">InDel</entity>
+  <entity id="33" start="849" end="861" type="sequence" preferred_form="fragment_assembly" original_resource="Sequence Ontology" original_id="SO:0001249">physical map</entity>
+  <entity id="34" start="858" end="861" type="gene/protein" preferred_form="methionine aminopeptidase" original_resource="Protein Ontology" original_id="PR:000023165">map</entity>
+  <entity id="35" start="858" end="861" type="gene/protein" preferred_form="extracellular adherence protein" original_resource="Protein Ontology" original_id="PR:000029173">map</entity>
+  <entity id="36" start="951" end="954" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="37" start="951" end="954" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="38" start="980" end="986" type="sequence" preferred_form="region" original_resource="Sequence Ontology" original_id="SO:0000001">region</entity>
+  <entity id="39" start="980" end="986" type="sequence" preferred_form="polypeptide_region" original_resource="Sequence Ontology" original_id="SO:0000839">region</entity>
+  <entity id="40" start="1055" end="1061" type="sequence" preferred_form="region" original_resource="Sequence Ontology" original_id="SO:0000001">region</entity>
+  <entity id="41" start="1055" end="1061" type="sequence" preferred_form="polypeptide_region" original_resource="Sequence Ontology" original_id="SO:0000839">region</entity>
+  <entity id="42" start="1072" end="1075" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="43" start="1072" end="1075" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="44" start="1084" end="1087" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="45" start="1084" end="1087" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="46" start="1091" end="1094" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="47" start="1091" end="1094" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="48" start="1098" end="1101" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="49" start="1098" end="1101" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="50" start="1108" end="1111" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="51" start="1108" end="1111" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="52" start="1132" end="1136" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="53" start="1132" end="1136" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+  <entity id="54" start="1208" end="1214" type="sequence" preferred_form="single" original_resource="Sequence Ontology" original_id="SO:0000984">single</entity>
+  <entity id="55" start="1215" end="1229" type="sequence" preferred_form="point_mutation" original_resource="Sequence Ontology" original_id="SO:1000008">point mutation</entity>
+  <entity id="56" start="1221" end="1229" type="sequence" preferred_form="sequence_variant_obs" original_resource="Sequence Ontology" original_id="SO:0000109">mutation</entity>
+  <entity id="57" start="1252" end="1274" type="chemical" preferred_form="5' Untranslated Regions" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D020121">5'-untranslated region</entity>
+  <entity id="58" start="1255" end="1274" type="chemical" preferred_form="Untranslated Regions" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D020506">untranslated region</entity>
+  <entity id="59" start="1255" end="1274" type="sequence" preferred_form="UTR" original_resource="Sequence Ontology" original_id="SO:0000203">untranslated region</entity>
+  <entity id="60" start="1268" end="1274" type="sequence" preferred_form="region" original_resource="Sequence Ontology" original_id="SO:0000001">region</entity>
+  <entity id="61" start="1268" end="1274" type="sequence" preferred_form="polypeptide_region" original_resource="Sequence Ontology" original_id="SO:0000839">region</entity>
+  <entity id="62" start="1275" end="1278" type="sequence" preferred_form="UTR" original_resource="Sequence Ontology" original_id="SO:0000203">UTR</entity>
+  <entity id="63" start="1275" end="1278" type="sequence" preferred_form="UTR_variant" original_resource="Sequence Ontology" original_id="SO:0001622">UTR</entity>
+  <entity id="64" start="1326" end="1332" type="chemical" preferred_form="3' Untranslated Regions" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D020413">3'-UTR</entity>
+  <entity id="65" start="1329" end="1332" type="sequence" preferred_form="UTR" original_resource="Sequence Ontology" original_id="SO:0000203">UTR</entity>
+  <entity id="66" start="1329" end="1332" type="sequence" preferred_form="UTR_variant" original_resource="Sequence Ontology" original_id="SO:0001622">UTR</entity>
+  <entity id="67" start="1336" end="1340" type="disease" preferred_form="Toe Syndactyly, Telecanthus, and Anogenital and Renal Malformations" original_resource="CTD (MESH)" original_id="C567475">STAR</entity>
+  <entity id="68" start="1336" end="1340" type="gene/protein" preferred_form="heat-stable enterotoxin receptor" original_resource="Protein Ontology" original_id="PR:000008352">STAR</entity>
+  <entity id="69" start="1336" end="1340" type="gene/protein" preferred_form="steroidogenic acute regulatory protein, mitochondrial" original_resource="Protein Ontology" original_id="PR:000015715">STAR</entity>
+  <entity id="70" start="1336" end="1340" type="cell_line" preferred_form="STAR" original_resource="Cellosaurus" original_id="CVCL_AR73">STAR</entity>
+  <entity id="71" start="1346" end="1349" type="gene/protein" preferred_form="Protochlorophyllide reductase, chloroplastic" original_resource="Swiss-Prot" original_id="O80333">PCR</entity>
+  <entity id="72" start="1346" end="1349" type="gene/protein" preferred_form="Protochlorophyllide reductase, chloroplastic" original_resource="Swiss-Prot" original_id="Q01289">PCR</entity>
+  <entity id="73" start="1346" end="1349" type="gene/protein" preferred_form="Protochlorophyllide reductase, chloroplastic" original_resource="Swiss-Prot" original_id="Q39617">PCR</entity>
+  <entity id="74" start="1346" end="1349" type="gene/protein" preferred_form="Light-dependent protochlorophyllide reductase" original_resource="Swiss-Prot" original_id="Q59987">PCR</entity>
+  <entity id="75" start="1346" end="1349" type="gene/protein" preferred_form="Protochlorophyllide reductase, chloroplastic" original_resource="Swiss-Prot" original_id="Q9SDT1">PCR</entity>
+  <entity id="76" start="1346" end="1349" type="gene/protein" preferred_form="Light-dependent protochlorophyllide reductase" original_resource="Swiss-Prot" original_id="O66148">PCR</entity>
+  <entity id="77" start="1346" end="1349" type="gene/protein" preferred_form="Protochlorophyllide reductase, chloroplastic" original_resource="Swiss-Prot" original_id="Q41249">PCR</entity>
+  <entity id="78" start="1346" end="1349" type="gene/protein" preferred_form="Protochlorophyllide reductase" original_resource="Swiss-Prot" original_id="P15904">PCR</entity>
+  <entity id="79" start="1403" end="1407" type="chemical" preferred_form="RNA, Messenger" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D012333">mRNA</entity>
+  <entity id="80" start="1403" end="1407" type="sequence" preferred_form="mRNA" original_resource="Sequence Ontology" original_id="SO:0000234">mRNA</entity>
+  <entity id="81" start="1403" end="1407" type="chemical" preferred_form="messenger RNA" original_resource="ChEBI" original_id="CHEBI:33699">mRNA</entity>
+  <entity id="82" start="1439" end="1442" type="cell_line" preferred_form="GL1" original_resource="Cellosaurus" original_id="CVCL_9175">gl1</entity>
+  <entity id="83" start="1439" end="1442" type="cell_line" preferred_form="GL-1 [Gecko]" original_resource="Cellosaurus" original_id="CVCL_4207">gl1</entity>
+  <entity id="84" start="1451" end="1454" type="cellular_component" preferred_form="obsolete RNA" original_resource="Gene Ontology" original_id="GO:0005562">RNA</entity>
+  <entity id="85" start="1451" end="1454" type="sequence" preferred_form="RNA" original_resource="Sequence Ontology" original_id="SO:0000356">RNA</entity>
+  <entity id="86" start="1451" end="1454" type="chemical" preferred_form="ribonucleic acid" original_resource="ChEBI" original_id="CHEBI:33697">RNA</entity>
+  <entity id="87" start="1451" end="1454" type="chemical" preferred_form="RNA" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D012313">RNA</entity>
+  <entity id="88" start="1451" end="1454" type="chemical" preferred_form="(ribonucleotide)n+m" original_resource="ChEBI" original_id="CHEBI:18273">RNA</entity>
+  <entity id="89" start="1455" end="1474" type="sequence" preferred_form="polypeptide_secondary_structure" original_resource="Sequence Ontology" original_id="SO:0001078">secondary structure</entity>
+  <entity id="90" start="1502" end="1508" type="sequence" preferred_form="single" original_resource="Sequence Ontology" original_id="SO:0000984">single</entity>
+  <entity id="91" start="1509" end="1523" type="sequence" preferred_form="point_mutation" original_resource="Sequence Ontology" original_id="SO:1000008">point mutation</entity>
+  <entity id="92" start="1515" end="1523" type="sequence" preferred_form="sequence_variant_obs" original_resource="Sequence Ontology" original_id="SO:0000109">mutation</entity>
+  <entity id="93" start="1547" end="1550" type="cellular_component" preferred_form="obsolete RNA" original_resource="Gene Ontology" original_id="GO:0005562">RNA</entity>
+  <entity id="94" start="1547" end="1550" type="sequence" preferred_form="RNA" original_resource="Sequence Ontology" original_id="SO:0000356">RNA</entity>
+  <entity id="95" start="1547" end="1550" type="chemical" preferred_form="ribonucleic acid" original_resource="ChEBI" original_id="CHEBI:33697">RNA</entity>
+  <entity id="96" start="1547" end="1550" type="chemical" preferred_form="RNA" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D012313">RNA</entity>
+  <entity id="97" start="1547" end="1550" type="chemical" preferred_form="(ribonucleotide)n+m" original_resource="ChEBI" original_id="CHEBI:18273">RNA</entity>
+  <entity id="98" start="1605" end="1611" type="sequence" preferred_form="single" original_resource="Sequence Ontology" original_id="SO:0000984">single</entity>
+  <entity id="99" start="1612" end="1626" type="sequence" preferred_form="point_mutation" original_resource="Sequence Ontology" original_id="SO:1000008">point mutation</entity>
+  <entity id="100" start="1618" end="1626" type="sequence" preferred_form="sequence_variant_obs" original_resource="Sequence Ontology" original_id="SO:0000109">mutation</entity>
+  <entity id="101" start="1699" end="1703" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="102" start="1699" end="1703" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+</entities>

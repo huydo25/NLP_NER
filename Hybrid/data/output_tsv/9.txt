@@ -1,0 +1,48 @@
+DOCUMENT ID	TYPE	START POSITION	END POSITION	MATCHED TERM	PREFERRED FORM	ENTITY ID	ZONE	SENTENCE ID	ORIGIN
+unknown	cell_line	19	24	18, a	18a	CVCL_8993		S1	Cellosaurus
+unknown	sequence	32	50	inducible promoter	inducible_promoter	SO:0002051		S1	Sequence Ontology
+unknown	sequence	42	50	promoter	promoter	SO:0000167		S1	Sequence Ontology
+unknown	sequence	88	98	transgenic	transgenic	SO:0000781		S1	Sequence Ontology
+unknown	organism	99	103	rice	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	99	103	rice	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	sequence	179	183	gene	gene	SO:0000704		S2	Sequence Ontology
+unknown	biological_process	179	194	gene expression	gene expression	GO:0010467		S2	Gene Ontology
+unknown	organism	266	270	rice	Oryza	D012275		S3	MeSH desc (Organisms)
+unknown	organism	266	270	rice	Oryza sativa	4530		S3	NCBI Taxonomy
+unknown	sequence	277	285	promoter	promoter	SO:0000167		S3	Sequence Ontology
+unknown	chemical	303	308	group	group	CHEBI:24433		S3	ChEBI
+unknown	sequence	326	336	transgenic	transgenic	SO:0000781		S3	Sequence Ontology
+unknown	organism	337	341	rice	Oryza	D012275		S3	MeSH desc (Organisms)
+unknown	organism	337	341	rice	Oryza sativa	4530		S3	NCBI Taxonomy
+unknown	chemical	373	377	mRNA	RNA, Messenger	D012333		S4	MeSH desc (Chemicals and Drugs)
+unknown	sequence	373	377	mRNA	mRNA	SO:0000234		S4	Sequence Ontology
+unknown	chemical	373	377	mRNA	messenger RNA	CHEBI:33699		S4	ChEBI
+unknown	chemical	430	434	NaCl	sodium chloride	CHEBI:26710		S4	ChEBI
+unknown	chemical	438	451	abscisic acid	Abscisic Acid	D000040		S4	MeSH desc (Chemicals and Drugs)
+unknown	chemical	438	451	abscisic acid	(-)-abscisic acid	CHEBI:28937		S4	ChEBI
+unknown	chemical	438	451	abscisic acid	2-cis-abscisic acid	CHEBI:22152		S4	ChEBI
+unknown	chemical	438	451	abscisic acid	(+)-abscisic acid	CHEBI:2365		S4	ChEBI
+unknown	chemical	447	451	acid	acid	CHEBI:37527		S4	ChEBI
+unknown	chemical	452	455	ABA	4,4'-azodibenzenearsonic acid	CHEBI:53554		S4	ChEBI
+unknown	gene/protein	452	455	ABA	Agaricus bisporus lectin	Q00022		S4	Swiss-Prot
+unknown	chemical	452	455	ABA	(-)-abscisic acid	CHEBI:28937		S4	ChEBI
+unknown	chemical	452	455	ABA	(+)-abscisic acid	CHEBI:2365		S4	ChEBI
+unknown	sequence	512	522	transcript	transcript	SO:0000673		S4	Sequence Ontology
+unknown	chemical	581	585	mRNA	RNA, Messenger	D012333		S5	MeSH desc (Chemicals and Drugs)
+unknown	sequence	581	585	mRNA	mRNA	SO:0000234		S5	Sequence Ontology
+unknown	chemical	581	585	mRNA	messenger RNA	CHEBI:33699		S5	ChEBI
+unknown	sequence	665	673	promoter	promoter	SO:0000167		S6	Sequence Ontology
+unknown	sequence	705	709	gene	gene	SO:0000704		S6	Sequence Ontology
+unknown	organism	728	732	rice	Oryza	D012275		S6	MeSH desc (Organisms)
+unknown	organism	728	732	rice	Oryza sativa	4530		S6	NCBI Taxonomy
+unknown	sequence	767	777	transgenic	transgenic	SO:0000781		S6	Sequence Ontology
+unknown	organism	767	784	transgenic plants	Plants, Genetically Modified	D030821		S6	MeSH desc (Organisms)
+unknown	biological_process	808	814	growth	growth	GO:0040007		S6	Gene Ontology
+unknown	gene/protein	863	866	dry	ryanodine receptor (fruit fly)	PR:Q24498		S6	Protein Ontology
+unknown	sequence	934	942	promoter	promoter	SO:0000167		S7	Sequence Ontology
+unknown	sequence	1128	1136	promoter	promoter	SO:0000167		S8	Sequence Ontology
+unknown	biological_process	1249	1265	seed development	seed development	GO:0048316		S8	Gene Ontology
+unknown	biological_process	1254	1265	development	developmental process	GO:0032502		S8	Gene Ontology
+unknown	sequence	1319	1327	promoter	promoter	SO:0000167		S9	Sequence Ontology
+unknown	biological_process	1470	1486	seed development	seed development	GO:0048316		S9	Gene Ontology
+unknown	biological_process	1475	1486	development	developmental process	GO:0032502		S9	Gene Ontology

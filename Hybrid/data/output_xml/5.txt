@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entities article_id="unknown">
+  <entity id="1" start="0" end="4" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Rice</entity>
+  <entity id="2" start="0" end="4" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">Rice</entity>
+  <entity id="3" start="11" end="24" type="chemical" preferred_form="nicotianamine" original_resource="MeSH supp (Chemicals and Drugs)" original_id="C082893">nicotianamine</entity>
+  <entity id="4" start="11" end="24" type="chemical" preferred_form="(S,S,S)-nicotianamine" original_resource="ChEBI" original_id="CHEBI:17721">nicotianamine</entity>
+  <entity id="5" start="11" end="24" type="chemical" preferred_form="nicotianamine" original_resource="ChEBI" original_id="CHEBI:25520">nicotianamine</entity>
+  <entity id="6" start="11" end="24" type="chemical" preferred_form="(S,S,S)-nicotianamine trizwitterion" original_resource="ChEBI" original_id="CHEBI:58249">nicotianamine</entity>
+  <entity id="7" start="38" end="44" type="gene/protein" preferred_form="Metal-nicotianamine transporter YSL2" original_resource="Swiss-Prot" original_id="Q6H3Z6">OsYSL2</entity>
+  <entity id="8" start="80" end="89" type="biological_process" preferred_form="transport" original_resource="Gene Ontology" original_id="GO:0006810">transport</entity>
+  <entity id="9" start="93" end="97" type="chemical" preferred_form="iron atom" original_resource="ChEBI" original_id="CHEBI:18248">iron</entity>
+  <entity id="10" start="102" end="111" type="chemical" preferred_form="manganese(0)" original_resource="ChEBI" original_id="CHEBI:35154">manganese</entity>
+  <entity id="11" start="102" end="111" type="chemical" preferred_form="manganese atom" original_resource="ChEBI" original_id="CHEBI:18291">manganese</entity>
+  <entity id="12" start="102" end="111" type="chemical" preferred_form="Manganese" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D008345">manganese</entity>
+  <entity id="13" start="113" end="117" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Rice</entity>
+  <entity id="14" start="113" end="117" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">Rice</entity>
+  <entity id="15" start="118" end="123" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza</entity>
+  <entity id="16" start="118" end="130" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza sativa</entity>
+  <entity id="17" start="118" end="130" type="organism" preferred_form="Oryza sativa (Indica Group) x Oryza nivara" original_resource="NCBI Taxonomy" original_id="311553">Oryza sativa</entity>
+  <entity id="18" start="118" end="130" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">Oryza sativa</entity>
+  <entity id="19" start="245" end="249" type="chemical" preferred_form="iron atom" original_resource="ChEBI" original_id="CHEBI:18248">iron</entity>
+  <entity id="20" start="253" end="259" type="biological_process" preferred_form="import into cell" original_resource="Gene Ontology" original_id="GO:0098657">uptake</entity>
+  <entity id="21" start="264" end="275" type="biological_process" preferred_form="homeostatic process" original_resource="Gene Ontology" original_id="GO:0042592">homeostasis</entity>
+  <entity id="22" start="348" end="354" type="gene/protein" preferred_form="Metal-nicotianamine transporter YSL2" original_resource="Swiss-Prot" original_id="Q6H3Z6">OsYSL2</entity>
+  <entity id="23" start="369" end="373" type="chemical" preferred_form="iron atom" original_resource="ChEBI" original_id="CHEBI:18248">iron</entity>
+  <entity id="24" start="386" end="395" type="chemical" preferred_form="manganese(0)" original_resource="ChEBI" original_id="CHEBI:35154">manganese</entity>
+  <entity id="25" start="386" end="395" type="chemical" preferred_form="manganese atom" original_resource="ChEBI" original_id="CHEBI:18291">manganese</entity>
+  <entity id="26" start="386" end="395" type="chemical" preferred_form="Manganese" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D008345">manganese</entity>
+  <entity id="27" start="403" end="416" type="chemical" preferred_form="nicotianamine" original_resource="MeSH supp (Chemicals and Drugs)" original_id="C082893">nicotianamine</entity>
+  <entity id="28" start="403" end="416" type="chemical" preferred_form="(S,S,S)-nicotianamine" original_resource="ChEBI" original_id="CHEBI:17721">nicotianamine</entity>
+  <entity id="29" start="403" end="416" type="chemical" preferred_form="nicotianamine" original_resource="ChEBI" original_id="CHEBI:25520">nicotianamine</entity>
+  <entity id="30" start="403" end="416" type="chemical" preferred_form="(S,S,S)-nicotianamine trizwitterion" original_resource="ChEBI" original_id="CHEBI:58249">nicotianamine</entity>
+  <entity id="31" start="417" end="424" type="sequence" preferred_form="complex_structural_alteration" original_resource="Sequence Ontology" original_id="SO:0001784">complex</entity>
+  <entity id="32" start="505" end="509" type="biological_process" preferred_form="RNA interference" original_resource="Gene Ontology" original_id="GO:0016246">RNAi</entity>
+  <entity id="33" start="510" end="516" type="gene/protein" preferred_form="Metal-nicotianamine transporter YSL2" original_resource="Swiss-Prot" original_id="Q6H3Z6">OsYSL2</entity>
+  <entity id="34" start="555" end="561" type="gene/protein" preferred_form="Metal-nicotianamine transporter YSL2" original_resource="Swiss-Prot" original_id="Q6H3Z6">OsYSL2</entity>
+  <entity id="35" start="593" end="599" type="gene/protein" preferred_form="Metal-nicotianamine transporter YSL2" original_resource="Swiss-Prot" original_id="Q6H3Z6">OsYSL2</entity>
+  <entity id="36" start="746" end="754" type="chemical" preferred_form="positron" original_resource="ChEBI" original_id="CHEBI:30225">positron</entity>
+  <entity id="37" start="764" end="770" type="chemical" preferred_form="spinosad" original_resource="ChEBI" original_id="CHEBI:39211">tracer</entity>
+  <entity id="38" start="764" end="770" type="chemical" preferred_form="tracer" original_resource="ChEBI" original_id="CHEBI:35204">tracer</entity>
+  <entity id="39" start="812" end="825" type="sequence" preferred_form="translocation" original_resource="Sequence Ontology" original_id="SO:0000199">translocation</entity>
+  <entity id="40" start="868" end="874" type="gene/protein" preferred_form="Metal-nicotianamine transporter YSL2" original_resource="Swiss-Prot" original_id="Q6H3Z6">OsYSL2</entity>
+  <entity id="41" start="937" end="943" type="gene/protein" preferred_form="Metal-nicotianamine transporter YSL2" original_resource="Swiss-Prot" original_id="Q6H3Z6">OsYSL2</entity>
+  <entity id="42" start="1096" end="1105" type="sequence" preferred_form="wild_type" original_resource="Sequence Ontology" original_id="SO:0000817">wild type</entity>
+  <entity id="43" start="1125" end="1131" type="gene/protein" preferred_form="Metal-nicotianamine transporter YSL2" original_resource="Swiss-Prot" original_id="Q6H3Z6">OsYSL2</entity>
+  <entity id="44" start="1161" end="1168" type="chemical" preferred_form="Sucrose" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D013395">sucrose</entity>
+  <entity id="45" start="1161" end="1168" type="chemical" preferred_form="sucrose" original_resource="ChEBI" original_id="CHEBI:17992">sucrose</entity>
+  <entity id="46" start="1181" end="1189" type="sequence" preferred_form="promoter" original_resource="Sequence Ontology" original_id="SO:0000167">promoter</entity>
+  <entity id="47" start="1228" end="1232" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="48" start="1228" end="1232" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+  <entity id="49" start="1247" end="1251" type="gene/protein" preferred_form="bifunctional protein FolD" original_resource="Protein Ontology" original_id="PR:000022679">fold</entity>
+  <entity id="50" start="1277" end="1286" type="sequence" preferred_form="wild_type" original_resource="Sequence Ontology" original_id="SO:0000817">wild type</entity>
+  <entity id="51" start="1342" end="1348" type="gene/protein" preferred_form="Metal-nicotianamine transporter YSL2" original_resource="Swiss-Prot" original_id="Q6H3Z6">OsYSL2</entity>
+  <entity id="52" start="1361" end="1373" type="biological_process" preferred_form="localization" original_resource="Gene Ontology" original_id="GO:0051179">localization</entity>
+  <entity id="53" start="1390" end="1396" type="gene/protein" preferred_form="Metal-nicotianamine transporter YSL2" original_resource="Swiss-Prot" original_id="Q6H3Z6">OsYSL2</entity>
+  <entity id="54" start="1414" end="1427" type="chemical" preferred_form="nicotianamine" original_resource="MeSH supp (Chemicals and Drugs)" original_id="C082893">nicotianamine</entity>
+  <entity id="55" start="1414" end="1427" type="chemical" preferred_form="(S,S,S)-nicotianamine" original_resource="ChEBI" original_id="CHEBI:17721">nicotianamine</entity>
+  <entity id="56" start="1414" end="1427" type="chemical" preferred_form="nicotianamine" original_resource="ChEBI" original_id="CHEBI:25520">nicotianamine</entity>
+  <entity id="57" start="1414" end="1427" type="chemical" preferred_form="(S,S,S)-nicotianamine trizwitterion" original_resource="ChEBI" original_id="CHEBI:58249">nicotianamine</entity>
+  <entity id="58" start="1457" end="1470" type="sequence" preferred_form="translocation" original_resource="Sequence Ontology" original_id="SO:0000199">translocation</entity>
+</entities>

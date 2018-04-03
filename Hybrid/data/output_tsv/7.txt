@@ -1,0 +1,76 @@
+DOCUMENT ID	TYPE	START POSITION	END POSITION	MATCHED TERM	PREFERRED FORM	ENTITY ID	ZONE	SENTENCE ID	ORIGIN
+unknown	chemical	13	24	hemoglobins	Hemoglobins	D006454		S1	MeSH desc (Chemicals and Drugs)
+unknown	organism	28	32	rice	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	28	32	rice	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	organism	33	38	Oryza	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	33	45	Oryza sativa	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	33	45	Oryza sativa	Oryza sativa (Indica Group) x Oryza nivara	311553		S1	NCBI Taxonomy
+unknown	organism	33	45	Oryza sativa	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	organism	110	114	rice	Oryza	D012275		S3	MeSH desc (Organisms)
+unknown	organism	110	114	rice	Oryza sativa	4530		S3	NCBI Taxonomy
+unknown	organism	115	120	Oryza	Oryza	D012275		S3	MeSH desc (Organisms)
+unknown	organism	115	127	Oryza sativa	Oryza	D012275		S3	MeSH desc (Organisms)
+unknown	organism	115	127	Oryza sativa	Oryza sativa (Indica Group) x Oryza nivara	311553		S3	NCBI Taxonomy
+unknown	organism	115	127	Oryza sativa	Oryza sativa	4530		S3	NCBI Taxonomy
+unknown	gene/protein	166	176	hemoglobin	Group 1 truncated hemoglobin trHbN	P15160		S4	Swiss-Prot
+unknown	gene/protein	166	176	hemoglobin	Group 1 truncated hemoglobin	P17724		S4	Swiss-Prot
+unknown	chemical	166	176	hemoglobin	deoxyhemoglobin	CHEBI:5656		S4	ChEBI
+unknown	gene/protein	166	176	hemoglobin	Group 1 truncated hemoglobin GlbN	P73925		S4	Swiss-Prot
+unknown	chemical	166	176	hemoglobin	hemoglobin	CHEBI:35143		S4	ChEBI
+unknown	chemical	166	176	hemoglobin	Hemoglobins	D006454		S4	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	166	176	hemoglobin	Group 1 truncated hemoglobin	Q03459		S4	Swiss-Prot
+unknown	sequence	180	184	gene	gene	SO:0000704		S4	Sequence Ontology
+unknown	organism	192	196	Rice	Oryza	D012275		S5	MeSH desc (Organisms)
+unknown	organism	192	196	Rice	Oryza sativa	4530		S5	NCBI Taxonomy
+unknown	gene/protein	197	200	hb1	Non-symbiotic hemoglobin 1	O24520		S5	Swiss-Prot
+unknown	gene/protein	197	200	hb1	Hemoglobin subunit beta-1	O93348		S5	Swiss-Prot
+unknown	gene/protein	197	200	hb1	Non-symbiotic hemoglobin 1	Q947C5		S5	Swiss-Prot
+unknown	gene/protein	197	200	hb1	Hemoglobin subunit alpha-1	P82111		S5	Swiss-Prot
+unknown	gene/protein	197	200	hb1	homeobox-DDT domain protein RLT1 (Arabidopsis thaliana)	PR:F4HY56		S5	Protein Ontology
+unknown	gene/protein	205	208	hb2	Hemoglobin subunit alpha-2	P82112		S5	Swiss-Prot
+unknown	chemical	205	208	hb2	2-hydroxylamino-5-ethyl-5-propylbarbituric acid	C058539		S5	MeSH supp (Chemicals and Drugs)
+unknown	gene/protein	205	208	hb2	olfactory receptor 2D2	PR:000011762		S5	Protein Ontology
+unknown	cell_line	205	208	hb2	HB2	CVCL_S886		S5	Cellosaurus
+unknown	gene/protein	205	208	hb2	CD166 antigen	O35112		S5	Swiss-Prot
+unknown	gene/protein	205	208	hb2	Non-symbiotic hemoglobin 2	Q93Y92		S5	Swiss-Prot
+unknown	gene/protein	205	208	hb2	Non-symbiotic hemoglobin 2	Q941Q2		S5	Swiss-Prot
+unknown	gene/protein	205	208	hb2	Olfactory receptor 2D2	Q9H210		S5	Swiss-Prot
+unknown	cell_line	205	208	hb2	1-7HB2	CVCL_2261		S5	Cellosaurus
+unknown	gene/protein	205	208	hb2	Non-symbiotic hemoglobin 2	O24521		S5	Swiss-Prot
+unknown	gene/protein	205	208	hb2	Non-symbiotic hemoglobin 2	Q941P9		S5	Swiss-Prot
+unknown	chemical	303	313	antibodies	Antibodies	D000906		S6	MeSH desc (Chemicals and Drugs)
+unknown	organism	336	340	rice	Oryza	D012275		S6	MeSH desc (Organisms)
+unknown	organism	336	340	rice	Oryza sativa	4530		S6	NCBI Taxonomy
+unknown	gene/protein	341	344	Hb1	Non-symbiotic hemoglobin 1	O24520		S6	Swiss-Prot
+unknown	gene/protein	341	344	Hb1	Hemoglobin subunit beta-1	O93348		S6	Swiss-Prot
+unknown	gene/protein	341	344	Hb1	Non-symbiotic hemoglobin 1	Q947C5		S6	Swiss-Prot
+unknown	gene/protein	341	344	Hb1	Hemoglobin subunit alpha-1	P82111		S6	Swiss-Prot
+unknown	gene/protein	341	344	Hb1	homeobox-DDT domain protein RLT1 (Arabidopsis thaliana)	PR:F4HY56		S6	Protein Ontology
+unknown	biological_process	381	390	synthesis	biosynthetic process	GO:0009058		S6	Gene Ontology
+unknown	gene/protein	394	397	Hbs	DNA-binding protein HU 1 (Bacillus subtilis subsp. subtilis str. 168)	PR:P08821		S6	Protein Ontology
+unknown	organism	401	405	rice	Oryza	D012275		S6	MeSH desc (Organisms)
+unknown	organism	401	405	rice	Oryza sativa	4530		S6	NCBI Taxonomy
+unknown	organism	476	480	rice	Oryza	D012275		S7	MeSH desc (Organisms)
+unknown	organism	476	480	rice	Oryza sativa	4530		S7	NCBI Taxonomy
+unknown	gene/protein	481	484	Hbs	DNA-binding protein HU 1 (Bacillus subtilis subsp. subtilis str. 168)	PR:P08821		S7	Protein Ontology
+unknown	biological_process	635	646	germination	obsolete germination	GO:0009844		S7	Gene Ontology
+unknown	biological_process	663	672	synthesis	biosynthetic process	GO:0009058		S8	Gene Ontology
+unknown	organism	685	689	rice	Oryza	D012275		S8	MeSH desc (Organisms)
+unknown	organism	685	689	rice	Oryza sativa	4530		S8	NCBI Taxonomy
+unknown	gene/protein	713	716	Hbs	DNA-binding protein HU 1 (Bacillus subtilis subsp. subtilis str. 168)	PR:P08821		S8	Protein Ontology
+unknown	gene/protein	774	777	Hbs	DNA-binding protein HU 1 (Bacillus subtilis subsp. subtilis str. 168)	PR:P08821		S8	Protein Ontology
+unknown	organism	810	814	rice	Oryza	D012275		S8	MeSH desc (Organisms)
+unknown	organism	810	814	rice	Oryza sativa	4530		S8	NCBI Taxonomy
+unknown	gene/protein	833	836	Hbs	DNA-binding protein HU 1 (Bacillus subtilis subsp. subtilis str. 168)	PR:P08821		S8	Protein Ontology
+unknown	chemical	868	871	H2O	water	CHEBI:15377		S8	ChEBI
+unknown	chemical	868	872	H2O2	hydrogen peroxide	CHEBI:16240		S8	ChEBI
+unknown	gene/protein	886	889	SNP	Tissue- and phase-specific nuclear protein	P86981		S8	Swiss-Prot
+unknown	cell_line	886	889	SNP	SNP	CVCL_IP76		S8	Cellosaurus
+unknown	sequence	886	889	SNP	SNP	SO:0000694		S8	Sequence Ontology
+unknown	chemical	903	908	2,4-D	2,4-D	CHEBI:28854		S8	ChEBI
+unknown	chemical	903	908	2,4-D	(2,4-dichlorophenoxy)acetate	CHEBI:19351		S8	ChEBI
+unknown	chemical	903	908	2,4-D	2,4-Dichlorophenoxyacetic Acid	D015084		S8	MeSH desc (Chemicals and Drugs)
+unknown	biological_process	1109	1118	synthesis	biosynthetic process	GO:0009058		S9	Gene Ontology
+unknown	organism	1122	1126	rice	Oryza	D012275		S9	MeSH desc (Organisms)
+unknown	organism	1122	1126	rice	Oryza sativa	4530		S9	NCBI Taxonomy
+unknown	gene/protein	1127	1130	Hbs	DNA-binding protein HU 1 (Bacillus subtilis subsp. subtilis str. 168)	PR:P08821		S9	Protein Ontology

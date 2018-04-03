@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entities article_id="unknown">
+  <entity id="1" start="28" end="32" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="2" start="28" end="32" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+  <entity id="3" start="33" end="40" type="molecular_function" preferred_form="microtubule motor activity" original_resource="Gene Ontology" original_id="GO:0003777">kinesin</entity>
+  <entity id="4" start="33" end="40" type="chemical" preferred_form="Kinesin" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D016547">kinesin</entity>
+  <entity id="5" start="33" end="44" type="gene/protein" preferred_form="Kinesin-like protein KIN-14Q" original_resource="Swiss-Prot" original_id="Q0IMS9">kinesin O12</entity>
+  <entity id="6" start="41" end="44" type="cell_line" preferred_form="JHU-012" original_resource="Cellosaurus" original_id="CVCL_5987">O12</entity>
+  <entity id="7" start="52" end="60" type="chemical" preferred_form="calponin" original_resource="MeSH supp (Chemicals and Drugs)" original_id="C056623">calponin</entity>
+  <entity id="8" start="70" end="76" type="sequence" preferred_form="polypeptide_domain" original_resource="Sequence Ontology" original_id="SO:0000417">domain</entity>
+  <entity id="9" start="95" end="104" type="sequence" preferred_form="predicted" original_resource="Sequence Ontology" original_id="SO:0000732">predicted</entity>
+  <entity id="10" start="114" end="118" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="11" start="114" end="118" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+  <entity id="12" start="119" end="124" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza</entity>
+  <entity id="13" start="119" end="131" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza sativa</entity>
+  <entity id="14" start="119" end="131" type="organism" preferred_form="Oryza sativa (Indica Group) x Oryza nivara" original_resource="NCBI Taxonomy" original_id="311553">Oryza sativa</entity>
+  <entity id="15" start="119" end="131" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">Oryza sativa</entity>
+  <entity id="16" start="146" end="152" type="sequence" preferred_form="genome" original_resource="Sequence Ontology" original_id="SO:0001026">genome</entity>
+  <entity id="17" start="173" end="180" type="molecular_function" preferred_form="microtubule motor activity" original_resource="Gene Ontology" original_id="GO:0003777">kinesin</entity>
+  <entity id="18" start="173" end="180" type="chemical" preferred_form="Kinesin" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D016547">kinesin</entity>
+  <entity id="19" start="186" end="194" type="chemical" preferred_form="protein" original_resource="ChEBI" original_id="CHEBI:36080">proteins</entity>
+  <entity id="20" start="215" end="222" type="molecular_function" preferred_form="microtubule motor activity" original_resource="Gene Ontology" original_id="GO:0003777">kinesin</entity>
+  <entity id="21" start="215" end="222" type="chemical" preferred_form="Kinesin" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D016547">kinesin</entity>
+  <entity id="22" start="215" end="226" type="gene/protein" preferred_form="Kinesin-like protein KIN-14Q" original_resource="Swiss-Prot" original_id="Q0IMS9">kinesin O12</entity>
+  <entity id="23" start="223" end="226" type="cell_line" preferred_form="JHU-012" original_resource="Cellosaurus" original_id="CVCL_5987">O12</entity>
+  <entity id="24" start="253" end="260" type="molecular_function" preferred_form="microtubule motor activity" original_resource="Gene Ontology" original_id="GO:0003777">kinesin</entity>
+  <entity id="25" start="253" end="260" type="chemical" preferred_form="Kinesin" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D016547">kinesin</entity>
+  <entity id="26" start="253" end="263" type="gene/protein" preferred_form="Kinesin-related protein 2" original_resource="Swiss-Prot" original_id="Q9BPU3">kinesin-14</entity>
+  <entity id="27" start="279" end="282" type="cell_line" preferred_form="JHU-012" original_resource="Cellosaurus" original_id="CVCL_5987">O12</entity>
+  <entity id="28" start="289" end="297" type="chemical" preferred_form="calponin" original_resource="MeSH supp (Chemicals and Drugs)" original_id="C056623">calponin</entity>
+  <entity id="29" start="310" end="316" type="sequence" preferred_form="polypeptide_domain" original_resource="Sequence Ontology" original_id="SO:0000417">domain</entity>
+  <entity id="30" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P51775">actin</entity>
+  <entity id="31" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVX4">actin</entity>
+  <entity id="32" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53477">actin</entity>
+  <entity id="33" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53491">actin</entity>
+  <entity id="34" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P24902">actin</entity>
+  <entity id="35" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q8SWN8">actin</entity>
+  <entity id="36" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q92193">actin</entity>
+  <entity id="37" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P17128">actin</entity>
+  <entity id="38" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P48465">actin</entity>
+  <entity id="39" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P20904">actin</entity>
+  <entity id="40" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P45520">actin</entity>
+  <entity id="41" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65316">actin</entity>
+  <entity id="42" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P26183">actin</entity>
+  <entity id="43" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9P4D1">actin</entity>
+  <entity id="44" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O17320">actin</entity>
+  <entity id="45" start="337" end="342" type="chemical" preferred_form="Actins" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D000199">actin</entity>
+  <entity id="46" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVZ8">actin</entity>
+  <entity id="47" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53500">actin</entity>
+  <entity id="48" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53476">actin</entity>
+  <entity id="49" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65314">actin</entity>
+  <entity id="50" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O00937">actin</entity>
+  <entity id="51" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q2U7A3">actin</entity>
+  <entity id="52" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P91754">actin</entity>
+  <entity id="53" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q92192">actin</entity>
+  <entity id="54" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53455">actin</entity>
+  <entity id="55" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q8X119">actin</entity>
+  <entity id="56" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O16808">actin</entity>
+  <entity id="57" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q39596">actin</entity>
+  <entity id="58" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P90689">actin</entity>
+  <entity id="59" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P10989">actin</entity>
+  <entity id="60" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P11426">actin</entity>
+  <entity id="61" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P78711">actin</entity>
+  <entity id="62" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O74258">actin</entity>
+  <entity id="63" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P14235">actin</entity>
+  <entity id="64" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P30161">actin</entity>
+  <entity id="65" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q75D00">actin</entity>
+  <entity id="66" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P68555">actin</entity>
+  <entity id="67" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="A5DQP9">actin</entity>
+  <entity id="68" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P80709">actin</entity>
+  <entity id="69" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q39758">actin</entity>
+  <entity id="70" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60010">actin</entity>
+  <entity id="71" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53689">actin</entity>
+  <entity id="72" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65315">actin</entity>
+  <entity id="73" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q11212">actin</entity>
+  <entity id="74" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53502">actin</entity>
+  <entity id="75" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60011">actin</entity>
+  <entity id="76" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q05214">actin</entity>
+  <entity id="77" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53499">actin</entity>
+  <entity id="78" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q6TCF2">actin</entity>
+  <entity id="79" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P81085">actin</entity>
+  <entity id="80" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P26182">actin</entity>
+  <entity id="81" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q99023">actin</entity>
+  <entity id="82" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q24733">actin</entity>
+  <entity id="83" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O81221">actin</entity>
+  <entity id="84" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P45521">actin</entity>
+  <entity id="85" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60009">actin</entity>
+  <entity id="86" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O13419">actin</entity>
+  <entity id="87" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P50138">actin</entity>
+  <entity id="88" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVF3">actin</entity>
+  <entity id="89" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53498">actin</entity>
+  <entity id="90" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P13363">actin</entity>
+  <entity id="91" start="337" end="342" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P10365">actin</entity>
+  <entity id="92" start="337" end="350" type="molecular_function" preferred_form="actin binding" original_resource="Gene Ontology" original_id="GO:0003779">actin-binding</entity>
+  <entity id="93" start="343" end="350" type="sequence" preferred_form="non_covalent_binding_site" original_resource="Sequence Ontology" original_id="SO:0001091">binding</entity>
+  <entity id="94" start="343" end="350" type="molecular_function" preferred_form="binding" original_resource="Gene Ontology" original_id="GO:0005488">binding</entity>
+  <entity id="95" start="343" end="350" type="sequence" preferred_form="polypeptide_binding_motif" original_resource="Sequence Ontology" original_id="SO:0100018">binding</entity>
+  <entity id="96" start="351" end="357" type="sequence" preferred_form="polypeptide_domain" original_resource="Sequence Ontology" original_id="SO:0000417">domain</entity>
+  <entity id="97" start="413" end="416" type="cell_line" preferred_form="JHU-012" original_resource="Cellosaurus" original_id="CVCL_5987">O12</entity>
+  <entity id="98" start="420" end="431" type="organism" preferred_form="Escherichia" original_resource="MeSH desc (Organisms)" original_id="D004925">Escherichia</entity>
+  <entity id="99" start="420" end="436" type="organism" preferred_form="Escherichia coli" original_resource="MeSH desc (Organisms)" original_id="D004926">Escherichia coli</entity>
+  <entity id="100" start="420" end="436" type="organism" preferred_form="Escherichia coli" original_resource="NCBI Taxonomy" original_id="562">Escherichia coli</entity>
+  <entity id="101" start="456" end="465" type="sequence" preferred_form="enzymatic" original_resource="Sequence Ontology" original_id="SO:0001185">enzymatic</entity>
+  <entity id="102" start="496" end="501" type="organism" preferred_form="unidentified" original_resource="NCBI Taxonomy" original_id="32644">other</entity>
+  <entity id="103" start="516" end="527" type="cellular_component" preferred_form="microtubule" original_resource="Gene Ontology" original_id="GO:0005874">microtubule</entity>
+  <entity id="104" start="538" end="544" type="chemical" preferred_form="Adenosine Triphosphatases" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D000251">ATPase</entity>
+  <entity id="105" start="538" end="544" type="gene/protein" preferred_form="Inorganic triphosphatase" original_resource="Swiss-Prot" original_id="A3DIJ8">ATPase</entity>
+  <entity id="106" start="538" end="544" type="gene/protein" preferred_form="Triphosphate tunel metalloenzyme 3" original_resource="Swiss-Prot" original_id="Q9SIY3">ATPase</entity>
+  <entity id="107" start="538" end="553" type="molecular_function" preferred_form="ATPase activity" original_resource="Gene Ontology" original_id="GO:0016887">ATPase activity</entity>
+  <entity id="108" start="569" end="572" type="cell_line" preferred_form="JHU-012" original_resource="Cellosaurus" original_id="CVCL_5987">O12</entity>
+  <entity id="109" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P51775">actin</entity>
+  <entity id="110" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVX4">actin</entity>
+  <entity id="111" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53477">actin</entity>
+  <entity id="112" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53491">actin</entity>
+  <entity id="113" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P24902">actin</entity>
+  <entity id="114" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q8SWN8">actin</entity>
+  <entity id="115" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q92193">actin</entity>
+  <entity id="116" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P17128">actin</entity>
+  <entity id="117" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P48465">actin</entity>
+  <entity id="118" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P20904">actin</entity>
+  <entity id="119" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P45520">actin</entity>
+  <entity id="120" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65316">actin</entity>
+  <entity id="121" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P26183">actin</entity>
+  <entity id="122" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9P4D1">actin</entity>
+  <entity id="123" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O17320">actin</entity>
+  <entity id="124" start="654" end="659" type="chemical" preferred_form="Actins" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D000199">actin</entity>
+  <entity id="125" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVZ8">actin</entity>
+  <entity id="126" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53500">actin</entity>
+  <entity id="127" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53476">actin</entity>
+  <entity id="128" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65314">actin</entity>
+  <entity id="129" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O00937">actin</entity>
+  <entity id="130" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q2U7A3">actin</entity>
+  <entity id="131" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P91754">actin</entity>
+  <entity id="132" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q92192">actin</entity>
+  <entity id="133" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53455">actin</entity>
+  <entity id="134" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q8X119">actin</entity>
+  <entity id="135" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O16808">actin</entity>
+  <entity id="136" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q39596">actin</entity>
+  <entity id="137" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P90689">actin</entity>
+  <entity id="138" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P10989">actin</entity>
+  <entity id="139" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P11426">actin</entity>
+  <entity id="140" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P78711">actin</entity>
+  <entity id="141" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O74258">actin</entity>
+  <entity id="142" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P14235">actin</entity>
+  <entity id="143" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P30161">actin</entity>
+  <entity id="144" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q75D00">actin</entity>
+  <entity id="145" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P68555">actin</entity>
+  <entity id="146" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="A5DQP9">actin</entity>
+  <entity id="147" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P80709">actin</entity>
+  <entity id="148" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q39758">actin</entity>
+  <entity id="149" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60010">actin</entity>
+  <entity id="150" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53689">actin</entity>
+  <entity id="151" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65315">actin</entity>
+  <entity id="152" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q11212">actin</entity>
+  <entity id="153" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53502">actin</entity>
+  <entity id="154" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60011">actin</entity>
+  <entity id="155" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q05214">actin</entity>
+  <entity id="156" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53499">actin</entity>
+  <entity id="157" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q6TCF2">actin</entity>
+  <entity id="158" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P81085">actin</entity>
+  <entity id="159" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P26182">actin</entity>
+  <entity id="160" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q99023">actin</entity>
+  <entity id="161" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q24733">actin</entity>
+  <entity id="162" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O81221">actin</entity>
+  <entity id="163" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P45521">actin</entity>
+  <entity id="164" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60009">actin</entity>
+  <entity id="165" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O13419">actin</entity>
+  <entity id="166" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P50138">actin</entity>
+  <entity id="167" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVF3">actin</entity>
+  <entity id="168" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53498">actin</entity>
+  <entity id="169" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P13363">actin</entity>
+  <entity id="170" start="654" end="659" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P10365">actin</entity>
+  <entity id="171" start="676" end="687" type="cellular_component" preferred_form="microtubule" original_resource="Gene Ontology" original_id="GO:0005874">microtubule</entity>
+  <entity id="172" start="698" end="704" type="chemical" preferred_form="Adenosine Triphosphatases" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D000251">ATPase</entity>
+  <entity id="173" start="698" end="704" type="gene/protein" preferred_form="Inorganic triphosphatase" original_resource="Swiss-Prot" original_id="A3DIJ8">ATPase</entity>
+  <entity id="174" start="698" end="704" type="gene/protein" preferred_form="Triphosphate tunel metalloenzyme 3" original_resource="Swiss-Prot" original_id="Q9SIY3">ATPase</entity>
+  <entity id="175" start="698" end="713" type="molecular_function" preferred_form="ATPase activity" original_resource="Gene Ontology" original_id="GO:0016887">ATPase activity</entity>
+  <entity id="176" start="727" end="733" type="sequence" preferred_form="polypeptide_domain" original_resource="Sequence Ontology" original_id="SO:0000417">domain</entity>
+  <entity id="177" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P51775">actin</entity>
+  <entity id="178" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVX4">actin</entity>
+  <entity id="179" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53477">actin</entity>
+  <entity id="180" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53491">actin</entity>
+  <entity id="181" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P24902">actin</entity>
+  <entity id="182" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q8SWN8">actin</entity>
+  <entity id="183" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q92193">actin</entity>
+  <entity id="184" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P17128">actin</entity>
+  <entity id="185" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P48465">actin</entity>
+  <entity id="186" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P20904">actin</entity>
+  <entity id="187" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P45520">actin</entity>
+  <entity id="188" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65316">actin</entity>
+  <entity id="189" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P26183">actin</entity>
+  <entity id="190" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9P4D1">actin</entity>
+  <entity id="191" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O17320">actin</entity>
+  <entity id="192" start="755" end="760" type="chemical" preferred_form="Actins" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D000199">actin</entity>
+  <entity id="193" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVZ8">actin</entity>
+  <entity id="194" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53500">actin</entity>
+  <entity id="195" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53476">actin</entity>
+  <entity id="196" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65314">actin</entity>
+  <entity id="197" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O00937">actin</entity>
+  <entity id="198" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q2U7A3">actin</entity>
+  <entity id="199" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P91754">actin</entity>
+  <entity id="200" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q92192">actin</entity>
+  <entity id="201" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53455">actin</entity>
+  <entity id="202" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q8X119">actin</entity>
+  <entity id="203" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O16808">actin</entity>
+  <entity id="204" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q39596">actin</entity>
+  <entity id="205" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P90689">actin</entity>
+  <entity id="206" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P10989">actin</entity>
+  <entity id="207" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P11426">actin</entity>
+  <entity id="208" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P78711">actin</entity>
+  <entity id="209" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O74258">actin</entity>
+  <entity id="210" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P14235">actin</entity>
+  <entity id="211" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P30161">actin</entity>
+  <entity id="212" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q75D00">actin</entity>
+  <entity id="213" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P68555">actin</entity>
+  <entity id="214" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="A5DQP9">actin</entity>
+  <entity id="215" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P80709">actin</entity>
+  <entity id="216" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q39758">actin</entity>
+  <entity id="217" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60010">actin</entity>
+  <entity id="218" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53689">actin</entity>
+  <entity id="219" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65315">actin</entity>
+  <entity id="220" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q11212">actin</entity>
+  <entity id="221" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53502">actin</entity>
+  <entity id="222" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60011">actin</entity>
+  <entity id="223" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q05214">actin</entity>
+  <entity id="224" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53499">actin</entity>
+  <entity id="225" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q6TCF2">actin</entity>
+  <entity id="226" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P81085">actin</entity>
+  <entity id="227" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P26182">actin</entity>
+  <entity id="228" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q99023">actin</entity>
+  <entity id="229" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q24733">actin</entity>
+  <entity id="230" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O81221">actin</entity>
+  <entity id="231" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P45521">actin</entity>
+  <entity id="232" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60009">actin</entity>
+  <entity id="233" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O13419">actin</entity>
+  <entity id="234" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P50138">actin</entity>
+  <entity id="235" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVF3">actin</entity>
+  <entity id="236" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53498">actin</entity>
+  <entity id="237" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P13363">actin</entity>
+  <entity id="238" start="755" end="760" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P10365">actin</entity>
+  <entity id="239" start="786" end="792" type="sequence" preferred_form="polypeptide_domain" original_resource="Sequence Ontology" original_id="SO:0000417">domain</entity>
+  <entity id="240" start="824" end="838" type="molecular_function" preferred_form="motor activity" original_resource="Gene Ontology" original_id="GO:0003774">motor activity</entity>
+  <entity id="241" start="846" end="850" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="242" start="846" end="850" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+  <entity id="243" start="866" end="873" type="molecular_function" preferred_form="microtubule motor activity" original_resource="Gene Ontology" original_id="GO:0003777">kinesin</entity>
+  <entity id="244" start="866" end="873" type="chemical" preferred_form="Kinesin" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D016547">kinesin</entity>
+  <entity id="245" start="866" end="877" type="gene/protein" preferred_form="Kinesin-like protein KIN-14Q" original_resource="Swiss-Prot" original_id="Q0IMS9">kinesin O12</entity>
+  <entity id="246" start="874" end="877" type="cell_line" preferred_form="JHU-012" original_resource="Cellosaurus" original_id="CVCL_5987">O12</entity>
+  <entity id="247" start="885" end="894" type="sequence" preferred_form="regulated" original_resource="Sequence Ontology" original_id="SO:0000119">regulated</entity>
+  <entity id="248" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P51775">actin</entity>
+  <entity id="249" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVX4">actin</entity>
+  <entity id="250" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53477">actin</entity>
+  <entity id="251" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53491">actin</entity>
+  <entity id="252" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P24902">actin</entity>
+  <entity id="253" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q8SWN8">actin</entity>
+  <entity id="254" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q92193">actin</entity>
+  <entity id="255" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P17128">actin</entity>
+  <entity id="256" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P48465">actin</entity>
+  <entity id="257" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P20904">actin</entity>
+  <entity id="258" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P45520">actin</entity>
+  <entity id="259" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65316">actin</entity>
+  <entity id="260" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P26183">actin</entity>
+  <entity id="261" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9P4D1">actin</entity>
+  <entity id="262" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O17320">actin</entity>
+  <entity id="263" start="898" end="903" type="chemical" preferred_form="Actins" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D000199">actin</entity>
+  <entity id="264" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVZ8">actin</entity>
+  <entity id="265" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53500">actin</entity>
+  <entity id="266" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53476">actin</entity>
+  <entity id="267" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65314">actin</entity>
+  <entity id="268" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O00937">actin</entity>
+  <entity id="269" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q2U7A3">actin</entity>
+  <entity id="270" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P91754">actin</entity>
+  <entity id="271" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q92192">actin</entity>
+  <entity id="272" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53455">actin</entity>
+  <entity id="273" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q8X119">actin</entity>
+  <entity id="274" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O16808">actin</entity>
+  <entity id="275" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q39596">actin</entity>
+  <entity id="276" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P90689">actin</entity>
+  <entity id="277" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P10989">actin</entity>
+  <entity id="278" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P11426">actin</entity>
+  <entity id="279" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P78711">actin</entity>
+  <entity id="280" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O74258">actin</entity>
+  <entity id="281" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P14235">actin</entity>
+  <entity id="282" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P30161">actin</entity>
+  <entity id="283" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q75D00">actin</entity>
+  <entity id="284" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P68555">actin</entity>
+  <entity id="285" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="A5DQP9">actin</entity>
+  <entity id="286" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P80709">actin</entity>
+  <entity id="287" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q39758">actin</entity>
+  <entity id="288" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60010">actin</entity>
+  <entity id="289" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53689">actin</entity>
+  <entity id="290" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O65315">actin</entity>
+  <entity id="291" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q11212">actin</entity>
+  <entity id="292" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53502">actin</entity>
+  <entity id="293" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60011">actin</entity>
+  <entity id="294" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q05214">actin</entity>
+  <entity id="295" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53499">actin</entity>
+  <entity id="296" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q6TCF2">actin</entity>
+  <entity id="297" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P81085">actin</entity>
+  <entity id="298" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P26182">actin</entity>
+  <entity id="299" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q99023">actin</entity>
+  <entity id="300" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q24733">actin</entity>
+  <entity id="301" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O81221">actin</entity>
+  <entity id="302" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P45521">actin</entity>
+  <entity id="303" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P60009">actin</entity>
+  <entity id="304" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="O13419">actin</entity>
+  <entity id="305" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P50138">actin</entity>
+  <entity id="306" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="Q9UVF3">actin</entity>
+  <entity id="307" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P53498">actin</entity>
+  <entity id="308" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P13363">actin</entity>
+  <entity id="309" start="898" end="903" type="gene/protein" preferred_form="Actin" original_resource="Swiss-Prot" original_id="P10365">actin</entity>
+</entities>

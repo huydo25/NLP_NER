@@ -1,0 +1,30 @@
+DOCUMENT ID	TYPE	START POSITION	END POSITION	MATCHED TERM	PREFERRED FORM	ENTITY ID	ZONE	SENTENCE ID	ORIGIN
+unknown	gene/protein	138	141	MAS	G-protein coupled receptor MAS	PR:000001563		S2	Protein Ontology
+unknown	disease	138	141	MAS	Fibrous Dysplasia, Polyostotic	D005359		S2	CTD (MESH)
+unknown	cellular_component	138	141	MAS	microtubule organizing center attachment site	GO:0034992		S2	Gene Ontology
+unknown	gene/protein	138	141	MAS	proto-oncogene Mas (mouse)	PR:P30554		S2	Protein Ontology
+unknown	chemical	138	141	MAS	mugineic acids	CHEBI:25427		S2	ChEBI
+unknown	gene/protein	138	141	MAS	malate synthase A	PR:000022037		S2	Protein Ontology
+unknown	gene/protein	138	141	MAS	proto-oncogene Mas (rat)	PR:P12526		S2	Protein Ontology
+unknown	gene/protein	267	270	MAS	G-protein coupled receptor MAS	PR:000001563		S3	Protein Ontology
+unknown	disease	267	270	MAS	Fibrous Dysplasia, Polyostotic	D005359		S3	CTD (MESH)
+unknown	cellular_component	267	270	MAS	microtubule organizing center attachment site	GO:0034992		S3	Gene Ontology
+unknown	gene/protein	267	270	MAS	proto-oncogene Mas (mouse)	PR:P30554		S3	Protein Ontology
+unknown	chemical	267	270	MAS	mugineic acids	CHEBI:25427		S3	ChEBI
+unknown	gene/protein	267	270	MAS	malate synthase A	PR:000022037		S3	Protein Ontology
+unknown	gene/protein	267	270	MAS	proto-oncogene Mas (rat)	PR:P12526		S3	Protein Ontology
+unknown	gene/protein	446	449	MAS	G-protein coupled receptor MAS	PR:000001563		S4	Protein Ontology
+unknown	disease	446	449	MAS	Fibrous Dysplasia, Polyostotic	D005359		S4	CTD (MESH)
+unknown	cellular_component	446	449	MAS	microtubule organizing center attachment site	GO:0034992		S4	Gene Ontology
+unknown	gene/protein	446	449	MAS	proto-oncogene Mas (mouse)	PR:P30554		S4	Protein Ontology
+unknown	chemical	446	449	MAS	mugineic acids	CHEBI:25427		S4	ChEBI
+unknown	gene/protein	446	449	MAS	malate synthase A	PR:000022037		S4	Protein Ontology
+unknown	gene/protein	446	449	MAS	proto-oncogene Mas (rat)	PR:P12526		S4	Protein Ontology
+unknown	gene/protein	578	581	MAS	G-protein coupled receptor MAS	PR:000001563		S5	Protein Ontology
+unknown	disease	578	581	MAS	Fibrous Dysplasia, Polyostotic	D005359		S5	CTD (MESH)
+unknown	cellular_component	578	581	MAS	microtubule organizing center attachment site	GO:0034992		S5	Gene Ontology
+unknown	gene/protein	578	581	MAS	proto-oncogene Mas (mouse)	PR:P30554		S5	Protein Ontology
+unknown	chemical	578	581	MAS	mugineic acids	CHEBI:25427		S5	ChEBI
+unknown	gene/protein	578	581	MAS	malate synthase A	PR:000022037		S5	Protein Ontology
+unknown	gene/protein	578	581	MAS	proto-oncogene Mas (rat)	PR:P12526		S5	Protein Ontology
+unknown	organism	940	945	other	unidentified	32644		S7	NCBI Taxonomy

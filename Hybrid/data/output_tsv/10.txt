@@ -1,0 +1,104 @@
+DOCUMENT ID	TYPE	START POSITION	END POSITION	MATCHED TERM	PREFERRED FORM	ENTITY ID	ZONE	SENTENCE ID	ORIGIN
+unknown	organism	0	4	Rice	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	0	4	Rice	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	chemical	43	46	wax	wax	CHEBI:73702		S1	ChEBI
+unknown	chemical	94	97	wax	wax	CHEBI:73702		S2	ChEBI
+unknown	chemical	112	129	organic compounds	organic molecule	CHEBI:72695		S2	ChEBI
+unknown	chemical	112	129	organic compounds	organic molecular entity	CHEBI:50860		S2	ChEBI
+unknown	organism	184	189	Plant	Plants	D010944		S3	MeSH desc (Organisms)
+unknown	chemical	200	203	wax	wax	CHEBI:73702		S3	ChEBI
+unknown	chemical	258	262	role	role	CHEBI:50906		S3	ChEBI
+unknown	biological_process	272	278	growth	growth	GO:0040007		S3	Gene Ontology
+unknown	biological_process	283	294	development	developmental process	GO:0032502		S3	Gene Ontology
+unknown	sequence	308	312	gene	gene	SO:0000704		S4	Sequence Ontology
+unknown	chemical	330	344	fatty aldehyde	fatty aldehyde	CHEBI:35746		S4	ChEBI
+unknown	chemical	330	344	fatty aldehyde	fatty aldehyde	C001634		S4	MeSH supp (Chemicals and Drugs)
+unknown	gene/protein	330	358	fatty aldehyde decarbonylase	Aldehyde decarbonylase	B2J1M1		S4	Swiss-Prot
+unknown	gene/protein	330	358	fatty aldehyde decarbonylase	Aldehyde decarbonylase	Q54764		S4	Swiss-Prot
+unknown	gene/protein	330	358	fatty aldehyde decarbonylase	Aldehyde decarbonylase	Q55688		S4	Swiss-Prot
+unknown	gene/protein	330	358	fatty aldehyde decarbonylase	Aldehyde decarbonylase	Q7V6D4		S4	Swiss-Prot
+unknown	chemical	336	344	aldehyde	aldehyde	CHEBI:17478		S4	ChEBI
+unknown	chemical	336	358	aldehyde decarbonylase	aldehyde decarbonylase	C043439		S4	MeSH supp (Chemicals and Drugs)
+unknown	gene/protein	336	358	aldehyde decarbonylase	Aldehyde decarbonylase	B2J1M1		S4	Swiss-Prot
+unknown	gene/protein	336	358	aldehyde decarbonylase	Aldehyde decarbonylase	Q54764		S4	Swiss-Prot
+unknown	gene/protein	336	358	aldehyde decarbonylase	Aldehyde decarbonylase	Q55688		S4	Swiss-Prot
+unknown	gene/protein	336	358	aldehyde decarbonylase	Aldehyde decarbonylase	Q7V6D4		S4	Swiss-Prot
+unknown	sequence	359	363	gene	gene	SO:0000704		S4	Sequence Ontology
+unknown	sequence	382	392	homologous	homologous	SO:0000857		S4	Sequence Ontology
+unknown	organism	396	407	Arabidopsis	Arabidopsis	D017360		S4	MeSH desc (Organisms)
+unknown	chemical	408	411	CER	cerium	CHEBI:33369		S4	ChEBI
+unknown	gene/protein	408	411	CER	Epidermal growth factor receptor	P13387		S4	Swiss-Prot
+unknown	gene/protein	408	411	CER	Cerberus	P70041		S4	Swiss-Prot
+unknown	gene/protein	408	411	CER	Cerberus	Q07G34		S4	Swiss-Prot
+unknown	chemical	408	411	CER	ceramide	CHEBI:17761		S4	ChEBI
+unknown	gene/protein	408	411	CER	vitamin B12 transporter BtuB	PR:000022234		S4	Protein Ontology
+unknown	gene/protein	408	412	CER1	cerberus	PR:000005361		S4	Protein Ontology
+unknown	chemical	445	448	wax	wax	CHEBI:73702		S4	ChEBI
+unknown	biological_process	445	461	wax biosynthesis	wax biosynthetic process	GO:0010025		S4	Gene Ontology
+unknown	biological_process	449	461	biosynthesis	biosynthetic process	GO:0009058		S4	Gene Ontology
+unknown	chemical	514	517	wax	wax	CHEBI:73702		S5	ChEBI
+unknown	biological_process	514	530	wax biosynthesis	wax biosynthetic process	GO:0010025		S5	Gene Ontology
+unknown	biological_process	518	530	biosynthesis	biosynthetic process	GO:0009058		S5	Gene Ontology
+unknown	organism	539	546	unknown	unidentified	32644		S5	NCBI Taxonomy
+unknown	sequence	574	583	antisense	antisense	SO:0000077		S6	Sequence Ontology
+unknown	molecular_function	574	587	antisense-RNA	obsolete antisense RNA	GO:0009388		S6	Gene Ontology
+unknown	chemical	574	587	antisense-RNA	RNA, Antisense	D016372		S6	MeSH desc (Chemicals and Drugs)
+unknown	sequence	574	587	antisense-RNA	antisense_RNA	SO:0000644		S6	Sequence Ontology
+unknown	cellular_component	584	587	RNA	obsolete RNA	GO:0005562		S6	Gene Ontology
+unknown	sequence	584	587	RNA	RNA	SO:0000356		S6	Sequence Ontology
+unknown	chemical	584	587	RNA	ribonucleic acid	CHEBI:33697		S6	ChEBI
+unknown	chemical	584	587	RNA	RNA	D012313		S6	MeSH desc (Chemicals and Drugs)
+unknown	chemical	584	587	RNA	(ribonucleotide)n+m	CHEBI:18273		S6	ChEBI
+unknown	sequence	588	594	vector	vector_replicon	SO:0000440		S6	Sequence Ontology
+unknown	sequence	613	621	promoter	promoter	SO:0000167		S6	Sequence Ontology
+unknown	organism	662	666	rice	Oryza	D012275		S6	MeSH desc (Organisms)
+unknown	organism	662	666	rice	Oryza sativa	4530		S6	NCBI Taxonomy
+unknown	organism	689	702	Agrobacterium	Agrobacterium	D060054		S6	MeSH desc (Organisms)
+unknown	sequence	757	767	transgenic	transgenic	SO:0000781		S6	Sequence Ontology
+unknown	organism	757	774	transgenic plants	Plants, Genetically Modified	D030821		S6	MeSH desc (Organisms)
+unknown	sequence	824	833	antisense	antisense	SO:0000077		S7	Sequence Ontology
+unknown	molecular_function	824	837	antisense-RNA	obsolete antisense RNA	GO:0009388		S7	Gene Ontology
+unknown	chemical	824	837	antisense-RNA	RNA, Antisense	D016372		S7	MeSH desc (Chemicals and Drugs)
+unknown	sequence	824	837	antisense-RNA	antisense_RNA	SO:0000644		S7	Sequence Ontology
+unknown	cellular_component	834	837	RNA	obsolete RNA	GO:0005562		S7	Gene Ontology
+unknown	sequence	834	837	RNA	RNA	SO:0000356		S7	Sequence Ontology
+unknown	chemical	834	837	RNA	ribonucleic acid	CHEBI:33697		S7	ChEBI
+unknown	chemical	834	837	RNA	RNA	D012313		S7	MeSH desc (Chemicals and Drugs)
+unknown	chemical	834	837	RNA	(ribonucleotide)n+m	CHEBI:18273		S7	ChEBI
+unknown	sequence	838	848	transgenic	transgenic	SO:0000781		S7	Sequence Ontology
+unknown	organism	838	855	transgenic plants	Plants, Genetically Modified	D030821		S7	MeSH desc (Organisms)
+unknown	chemical	938	941	wax	wax	CHEBI:73702		S7	ChEBI
+unknown	cellular_component	970	978	membrane	membrane	GO:0016020		S7	Gene Ontology
+unknown	chemical	990	1001	chlorophyll	chlorophyll	CHEBI:28966		S7	ChEBI
+unknown	chemical	990	1001	chlorophyll	Chlorophyll	D002734		S7	MeSH desc (Chemicals and Drugs)
+unknown	chemical	990	1001	chlorophyll	chlorophyll a	CHEBI:18230		S7	ChEBI
+unknown	chemical	1015	1020	water	water	CHEBI:15377		S7	ChEBI
+unknown	sequence	1021	1025	loss	copy_number_loss	SO:0001743		S7	Sequence Ontology
+unknown	sequence	1079	1083	gene	gene	SO:0000704		S8	Sequence Ontology
+unknown	sequence	1252	1258	fusion	fusion	SO:0000806		S9	Sequence Ontology
+unknown	cellular_component	1302	1323	endoplasmic reticulum	endoplasmic reticulum	GO:0005783		S9	Gene Ontology
+unknown	chemical	1370	1373	wax	wax	CHEBI:73702		S10	ChEBI
+unknown	chemical	1478	1481	wax	wax	CHEBI:73702		S10	ChEBI
+unknown	sequence	1521	1530	antisense	antisense	SO:0000077		S10	Sequence Ontology
+unknown	molecular_function	1521	1534	antisense-RNA	obsolete antisense RNA	GO:0009388		S10	Gene Ontology
+unknown	chemical	1521	1534	antisense-RNA	RNA, Antisense	D016372		S10	MeSH desc (Chemicals and Drugs)
+unknown	sequence	1521	1534	antisense-RNA	antisense_RNA	SO:0000644		S10	Sequence Ontology
+unknown	cellular_component	1531	1534	RNA	obsolete RNA	GO:0005562		S10	Gene Ontology
+unknown	sequence	1531	1534	RNA	RNA	SO:0000356		S10	Sequence Ontology
+unknown	chemical	1531	1534	RNA	ribonucleic acid	CHEBI:33697		S10	ChEBI
+unknown	chemical	1531	1534	RNA	RNA	D012313		S10	MeSH desc (Chemicals and Drugs)
+unknown	chemical	1531	1534	RNA	(ribonucleotide)n+m	CHEBI:18273		S10	ChEBI
+unknown	sequence	1535	1545	transgenic	transgenic	SO:0000781		S10	Sequence Ontology
+unknown	organism	1535	1552	transgenic plants	Plants, Genetically Modified	D030821		S10	MeSH desc (Organisms)
+unknown	chemical	1583	1589	alkane	alkane	CHEBI:18310		S10	ChEBI
+unknown	chemical	1594	1602	aldehyde	aldehyde	CHEBI:17478		S10	ChEBI
+unknown	chemical	1619	1634	primary alcohol	primary alcohol	CHEBI:15734		S11	ChEBI
+unknown	chemical	1627	1634	alcohol	ethanol	CHEBI:16236		S11	ChEBI
+unknown	chemical	1627	1634	alcohol	alcohol	CHEBI:30879		S11	ChEBI
+unknown	sequence	1695	1704	wild type	wild_type	SO:0000817		S11	Sequence Ontology
+unknown	chemical	1788	1791	wax	wax	CHEBI:73702		S11	ChEBI
+unknown	biological_process	1788	1804	wax biosynthesis	wax biosynthetic process	GO:0010025		S11	Gene Ontology
+unknown	biological_process	1792	1804	biosynthesis	biosynthetic process	GO:0009058		S11	Gene Ontology
+unknown	chemical	1880	1883	wax	wax	CHEBI:73702		S12	ChEBI
+unknown	organism	1927	1931	rice	Oryza	D012275		S12	MeSH desc (Organisms)
+unknown	organism	1927	1931	rice	Oryza sativa	4530		S12	NCBI Taxonomy

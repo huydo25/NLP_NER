@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entities article_id="unknown">
+  <entity id="1" start="48" end="51" type="organism" preferred_form="Dipturus trachyderma" original_resource="NCBI Taxonomy" original_id="255564">ray</entity>
+  <entity id="2" start="95" end="104" type="molecular_function" preferred_form="oxidoreductase activity, acting on single donors with incorporation of molecular oxygen" original_resource="Gene Ontology" original_id="GO:0016701">oxygenase</entity>
+  <entity id="3" start="105" end="109" type="gene/protein" preferred_form="alpha-dioxygenase 1 (Arabidopsis thaliana)" original_resource="Protein Ontology" original_id="PR:Q9SGH6">PIOX</entity>
+  <entity id="4" start="115" end="120" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza</entity>
+  <entity id="5" start="115" end="127" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza sativa</entity>
+  <entity id="6" start="115" end="127" type="organism" preferred_form="Oryza sativa (Indica Group) x Oryza nivara" original_resource="NCBI Taxonomy" original_id="311553">Oryza sativa</entity>
+  <entity id="7" start="115" end="127" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">Oryza sativa</entity>
+  <entity id="8" start="148" end="157" type="molecular_function" preferred_form="oxidoreductase activity, acting on single donors with incorporation of molecular oxygen" original_resource="Gene Ontology" original_id="GO:0016701">oxygenase</entity>
+  <entity id="9" start="158" end="162" type="gene/protein" preferred_form="alpha-dioxygenase 1 (Arabidopsis thaliana)" original_resource="Protein Ontology" original_id="PR:Q9SGH6">PIOX</entity>
+  <entity id="10" start="168" end="172" type="chemical" preferred_form="heme" original_resource="ChEBI" original_id="CHEBI:30413">heme</entity>
+  <entity id="11" start="168" end="172" type="chemical" preferred_form="ferroheme b" original_resource="ChEBI" original_id="CHEBI:17627">heme</entity>
+  <entity id="12" start="168" end="172" type="chemical" preferred_form="Heme" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D006418">heme</entity>
+  <entity id="13" start="168" end="172" type="chemical" preferred_form="heme b" original_resource="ChEBI" original_id="CHEBI:26355">heme</entity>
+  <entity id="14" start="184" end="192" type="cellular_component" preferred_form="membrane" original_resource="Gene Ontology" original_id="GO:0016020">membrane</entity>
+  <entity id="15" start="204" end="211" type="chemical" preferred_form="protein" original_resource="ChEBI" original_id="CHEBI:36080">protein</entity>
+  <entity id="16" start="204" end="211" type="gene/protein" preferred_form="protein" original_resource="Protein Ontology" original_id="PR:000000001">protein</entity>
+  <entity id="17" start="204" end="211" type="cellular_component" preferred_form="obsolete protein" original_resource="Gene Ontology" original_id="GO:0003675">protein</entity>
+  <entity id="18" start="204" end="211" type="sequence" preferred_form="polypeptide" original_resource="Sequence Ontology" original_id="SO:0000104">protein</entity>
+  <entity id="19" start="272" end="288" type="chemical" preferred_form="dioxygen" original_resource="ChEBI" original_id="CHEBI:15379">molecular oxygen</entity>
+  <entity id="20" start="282" end="288" type="chemical" preferred_form="oxygen atom" original_resource="ChEBI" original_id="CHEBI:25805">oxygen</entity>
+  <entity id="21" start="300" end="327" type="chemical" preferred_form="Fatty Acids, Unsaturated" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D005231">polyunsaturated fatty acids</entity>
+  <entity id="22" start="300" end="327" type="chemical" preferred_form="polyunsaturated fatty acid" original_resource="ChEBI" original_id="CHEBI:26208">polyunsaturated fatty acids</entity>
+  <entity id="23" start="316" end="327" type="chemical" preferred_form="Fatty Acids" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D005227">fatty acids</entity>
+  <entity id="24" start="316" end="327" type="chemical" preferred_form="fatty acid" original_resource="ChEBI" original_id="CHEBI:35366">fatty acids</entity>
+  <entity id="25" start="322" end="327" type="chemical" preferred_form="acid" original_resource="ChEBI" original_id="CHEBI:37527">acids</entity>
+  <entity id="26" start="356" end="370" type="chemical" preferred_form="hydroperoxide" original_resource="ChEBI" original_id="CHEBI:35923">hydroperoxides</entity>
+  <entity id="27" start="356" end="370" type="chemical" preferred_form="peroxol" original_resource="ChEBI" original_id="CHEBI:35924">hydroperoxides</entity>
+  <entity id="28" start="372" end="376" type="gene/protein" preferred_form="alpha-dioxygenase 1 (Arabidopsis thaliana)" original_resource="Protein Ontology" original_id="PR:Q9SGH6">PIOX</entity>
+  <entity id="29" start="411" end="421" type="chemical" preferred_form="fatty acid" original_resource="ChEBI" original_id="CHEBI:35366">fatty-acid</entity>
+  <entity id="30" start="417" end="421" type="chemical" preferred_form="acid" original_resource="ChEBI" original_id="CHEBI:37527">acid</entity>
+  <entity id="31" start="422" end="427" type="chemical" preferred_form="alpha-particle" original_resource="ChEBI" original_id="CHEBI:30216">alpha</entity>
+  <entity id="32" start="428" end="440" type="chemical" preferred_form="Dioxygenases" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D049308">dioxygenases</entity>
+  <entity id="33" start="469" end="483" type="chemical" preferred_form="Prostaglandin-Endoperoxide Synthases" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D011451">cyclooxygenase</entity>
+  <entity id="34" start="492" end="506" type="chemical" preferred_form="Prostaglandin-Endoperoxide Synthases" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D011451">cyclooxygenase</entity>
+  <entity id="35" start="492" end="508" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="O62664">cyclooxygenase 1</entity>
+  <entity id="36" start="492" end="508" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="Q8HZR1">cyclooxygenase 1</entity>
+  <entity id="37" start="492" end="508" type="chemical" preferred_form="Cyclooxygenase 1" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D051545">cyclooxygenase 1</entity>
+  <entity id="38" start="492" end="508" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="P22437">cyclooxygenase 1</entity>
+  <entity id="39" start="492" end="508" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="Q63921">cyclooxygenase 1</entity>
+  <entity id="40" start="492" end="508" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="P23219">cyclooxygenase 1</entity>
+  <entity id="41" start="492" end="508" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="O97554">cyclooxygenase 1</entity>
+  <entity id="42" start="492" end="508" type="gene/protein" preferred_form="prostaglandin G/H synthase 1" original_resource="Protein Ontology" original_id="PR:000013427">cyclooxygenase 1</entity>
+  <entity id="43" start="492" end="508" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="P05979">cyclooxygenase 1</entity>
+  <entity id="44" start="509" end="514" type="cell_line" preferred_form="AND-2" original_resource="Cellosaurus" original_id="CVCL_B527">and 2</entity>
+  <entity id="45" start="515" end="518" type="gene/protein" preferred_form="Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial" original_resource="Swiss-Prot" original_id="Q3B7D0">COX</entity>
+  <entity id="46" start="515" end="518" type="gene/protein" preferred_form="Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial" original_resource="Swiss-Prot" original_id="P36551">COX</entity>
+  <entity id="47" start="515" end="518" type="cell_line" preferred_form="COX" original_resource="Cellosaurus" original_id="CVCL_E534">COX</entity>
+  <entity id="48" start="515" end="518" type="gene/protein" preferred_form="Probable oxygen-dependent coproporphyrinogen-III oxidase" original_resource="Swiss-Prot" original_id="Q9UTE2">COX</entity>
+  <entity id="49" start="515" end="518" type="gene/protein" preferred_form="Oxygen-dependent coproporphyrinogen-III oxidase" original_resource="Swiss-Prot" original_id="Q9V3D2">COX</entity>
+  <entity id="50" start="515" end="518" type="gene/protein" preferred_form="oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial" original_resource="Protein Ontology" original_id="PR:000005826">COX</entity>
+  <entity id="51" start="515" end="518" type="gene/protein" preferred_form="Oxygen-dependent coproporphyrinogen-III oxidase" original_resource="Swiss-Prot" original_id="P11353">COX</entity>
+  <entity id="52" start="515" end="518" type="gene/protein" preferred_form="Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial" original_resource="Swiss-Prot" original_id="P36552">COX</entity>
+  <entity id="53" start="515" end="520" type="gene/protein" preferred_form="prostaglandin G/H synthase 1 (mouse)" original_resource="Protein Ontology" original_id="PR:P22437">COX-1</entity>
+  <entity id="54" start="515" end="520" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="O62664">COX-1</entity>
+  <entity id="55" start="515" end="520" type="gene/protein" preferred_form="prostaglandin G/H synthase 1 (rat)" original_resource="Protein Ontology" original_id="PR:Q63921">COX-1</entity>
+  <entity id="56" start="515" end="520" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="Q8HZR1">COX-1</entity>
+  <entity id="57" start="515" end="520" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="P22437">COX-1</entity>
+  <entity id="58" start="515" end="520" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="Q63921">COX-1</entity>
+  <entity id="59" start="515" end="520" type="gene/protein" preferred_form="cytochrome c oxidase subunit 1 (zebrafish)" original_resource="Protein Ontology" original_id="PR:Q9MIY8">COX-1</entity>
+  <entity id="60" start="515" end="520" type="gene/protein" preferred_form="cytochrome c oxidase subunit 1+2 (Dictyostelium discoideum)" original_resource="Protein Ontology" original_id="PR:O21042">COX-1</entity>
+  <entity id="61" start="515" end="520" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="P23219">COX-1</entity>
+  <entity id="62" start="515" end="520" type="gene/protein" preferred_form="Cytokinin dehydrogenase 1" original_resource="Swiss-Prot" original_id="Q9T0N8">COX-1</entity>
+  <entity id="63" start="515" end="520" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="O97554">COX-1</entity>
+  <entity id="64" start="515" end="520" type="gene/protein" preferred_form="prostaglandin G/H synthase 1 (cow)" original_resource="Protein Ontology" original_id="PR:O62664">COX-1</entity>
+  <entity id="65" start="515" end="520" type="gene/protein" preferred_form="prostaglandin G/H synthase 1" original_resource="Protein Ontology" original_id="PR:000013427">COX-1</entity>
+  <entity id="66" start="515" end="520" type="gene/protein" preferred_form="Prostaglandin G/H synthase 1" original_resource="Swiss-Prot" original_id="P05979">COX-1</entity>
+  <entity id="67" start="525" end="528" type="gene/protein" preferred_form="Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial" original_resource="Swiss-Prot" original_id="Q3B7D0">COX</entity>
+  <entity id="68" start="525" end="528" type="gene/protein" preferred_form="Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial" original_resource="Swiss-Prot" original_id="P36551">COX</entity>
+  <entity id="69" start="525" end="528" type="cell_line" preferred_form="COX" original_resource="Cellosaurus" original_id="CVCL_E534">COX</entity>
+  <entity id="70" start="525" end="528" type="gene/protein" preferred_form="Probable oxygen-dependent coproporphyrinogen-III oxidase" original_resource="Swiss-Prot" original_id="Q9UTE2">COX</entity>
+  <entity id="71" start="525" end="528" type="gene/protein" preferred_form="Oxygen-dependent coproporphyrinogen-III oxidase" original_resource="Swiss-Prot" original_id="Q9V3D2">COX</entity>
+  <entity id="72" start="525" end="528" type="gene/protein" preferred_form="oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial" original_resource="Protein Ontology" original_id="PR:000005826">COX</entity>
+  <entity id="73" start="525" end="528" type="gene/protein" preferred_form="Oxygen-dependent coproporphyrinogen-III oxidase" original_resource="Swiss-Prot" original_id="P11353">COX</entity>
+  <entity id="74" start="525" end="528" type="gene/protein" preferred_form="Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial" original_resource="Swiss-Prot" original_id="P36552">COX</entity>
+  <entity id="75" start="525" end="530" type="gene/protein" preferred_form="Prostaglandin G/H synthase 2" original_resource="Swiss-Prot" original_id="O62698">COX-2</entity>
+  <entity id="76" start="525" end="530" type="gene/protein" preferred_form="Prostaglandin G/H synthase 2" original_resource="Swiss-Prot" original_id="O62725">COX-2</entity>
+  <entity id="77" start="525" end="530" type="gene/protein" preferred_form="prostaglandin G/H synthase 2 (rat)" original_resource="Protein Ontology" original_id="PR:P35355">COX-2</entity>
+  <entity id="78" start="525" end="530" type="gene/protein" preferred_form="Prostaglandin G/H synthase 2" original_resource="Swiss-Prot" original_id="O19183">COX-2</entity>
+  <entity id="79" start="525" end="530" type="gene/protein" preferred_form="prostaglandin G/H synthase 2 (cow)" original_resource="Protein Ontology" original_id="PR:O62698">COX-2</entity>
+  <entity id="80" start="525" end="530" type="gene/protein" preferred_form="Prostaglandin G/H synthase 2" original_resource="Swiss-Prot" original_id="P27607">COX-2</entity>
+  <entity id="81" start="525" end="530" type="gene/protein" preferred_form="prostaglandin G/H synthase 2" original_resource="Protein Ontology" original_id="PR:000013428">COX-2</entity>
+  <entity id="82" start="525" end="530" type="gene/protein" preferred_form="cytochrome c oxidase subunit 2 (zebrafish)" original_resource="Protein Ontology" original_id="PR:Q9MIY7">COX-2</entity>
+  <entity id="83" start="525" end="530" type="gene/protein" preferred_form="Prostaglandin G/H synthase 2" original_resource="Swiss-Prot" original_id="P70682">COX-2</entity>
+  <entity id="84" start="525" end="530" type="gene/protein" preferred_form="Prostaglandin G/H synthase 2" original_resource="Swiss-Prot" original_id="P35354">COX-2</entity>
+  <entity id="85" start="525" end="530" type="gene/protein" preferred_form="Prostaglandin G/H synthase 2" original_resource="Swiss-Prot" original_id="P35355">COX-2</entity>
+  <entity id="86" start="525" end="530" type="gene/protein" preferred_form="Prostaglandin G/H synthase 2" original_resource="Swiss-Prot" original_id="P79208">COX-2</entity>
+  <entity id="87" start="525" end="530" type="gene/protein" preferred_form="Prostaglandin G/H synthase 2" original_resource="Swiss-Prot" original_id="O02768">COX-2</entity>
+  <entity id="88" start="525" end="530" type="gene/protein" preferred_form="Prostaglandin G/H synthase 2" original_resource="Swiss-Prot" original_id="Q05769">COX-2</entity>
+  <entity id="89" start="525" end="530" type="gene/protein" preferred_form="prostaglandin G/H synthase 2 (mouse)" original_resource="Protein Ontology" original_id="PR:Q05769">COX-2</entity>
+  <entity id="90" start="551" end="555" type="gene/protein" preferred_form="alpha-dioxygenase 1 (Arabidopsis thaliana)" original_resource="Protein Ontology" original_id="PR:Q9SGH6">PIOX</entity>
+  <entity id="91" start="561" end="565" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="92" start="561" end="565" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+  <entity id="93" start="566" end="571" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza</entity>
+  <entity id="94" start="566" end="578" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza sativa</entity>
+  <entity id="95" start="566" end="578" type="organism" preferred_form="Oryza sativa (Indica Group) x Oryza nivara" original_resource="NCBI Taxonomy" original_id="311553">Oryza sativa</entity>
+  <entity id="96" start="566" end="578" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">Oryza sativa</entity>
+  <entity id="97" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="Q4X1A4">MPD</entity>
+  <entity id="98" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="Q1DP56">MPD</entity>
+  <entity id="99" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="L7IBL2">MPD</entity>
+  <entity id="100" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="A1C6B4">MPD</entity>
+  <entity id="101" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="P0CT14">MPD</entity>
+  <entity id="102" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="Q6UQ76">MPD</entity>
+  <entity id="103" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="B0XS99">MPD</entity>
+  <entity id="104" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="B2WME4">MPD</entity>
+  <entity id="105" start="600" end="603" type="gene/protein" preferred_form="diphosphomevalonate decarboxylase (yeast)" original_resource="Protein Ontology" original_id="PR:P32377">MPD</entity>
+  <entity id="106" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="A7F8U1">MPD</entity>
+  <entity id="107" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="Q2U059">MPD</entity>
+  <entity id="108" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="Q0U6E8">MPD</entity>
+  <entity id="109" start="600" end="603" type="gene/protein" preferred_form="diphosphomevalonate decarboxylase" original_resource="Protein Ontology" original_id="PR:000010785">MPD</entity>
+  <entity id="110" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="Q0CXS6">MPD</entity>
+  <entity id="111" start="600" end="603" type="gene/protein" preferred_form="diphosphomevalonate decarboxylase (rat)" original_resource="Protein Ontology" original_id="PR:Q62967">MPD</entity>
+  <entity id="112" start="600" end="603" type="chemical" preferred_form="2-methylpentane-2,4-diol" original_resource="ChEBI" original_id="CHEBI:62995">MPD</entity>
+  <entity id="113" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="Q7SA44">MPD</entity>
+  <entity id="114" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="Q5B0F5">MPD</entity>
+  <entity id="115" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="A6RGF3">MPD</entity>
+  <entity id="116" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="B2AND4">MPD</entity>
+  <entity id="117" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="Q2H2D7">MPD</entity>
+  <entity id="118" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="A1DGY9">MPD</entity>
+  <entity id="119" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="A2QD49">MPD</entity>
+  <entity id="120" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="B6QP49">MPD</entity>
+  <entity id="121" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="Q874B3">MPD</entity>
+  <entity id="122" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="Q8NJJ1">MPD</entity>
+  <entity id="123" start="600" end="603" type="gene/protein" preferred_form="Mannitol-1-phosphate 5-dehydrogenase" original_resource="Swiss-Prot" original_id="B6HRL5">MPD</entity>
+  <entity id="124" start="622" end="629" type="chemical" preferred_form="protein" original_resource="ChEBI" original_id="CHEBI:36080">protein</entity>
+  <entity id="125" start="622" end="629" type="gene/protein" preferred_form="protein" original_resource="Protein Ontology" original_id="PR:000000001">protein</entity>
+  <entity id="126" start="622" end="629" type="cellular_component" preferred_form="obsolete protein" original_resource="Gene Ontology" original_id="GO:0003675">protein</entity>
+  <entity id="127" start="622" end="629" type="sequence" preferred_form="polypeptide" original_resource="Sequence Ontology" original_id="SO:0000104">protein</entity>
+  <entity id="128" start="643" end="654" type="organism" preferred_form="Escherichia" original_resource="MeSH desc (Organisms)" original_id="D004925">Escherichia</entity>
+  <entity id="129" start="643" end="659" type="organism" preferred_form="Escherichia coli" original_resource="MeSH desc (Organisms)" original_id="D004926">Escherichia coli</entity>
+  <entity id="130" start="643" end="659" type="organism" preferred_form="Escherichia coli" original_resource="NCBI Taxonomy" original_id="562">Escherichia coli</entity>
+  <entity id="131" start="697" end="702" type="chemical" preferred_form="decyl group" original_resource="ChEBI" original_id="CHEBI:23580">decyl</entity>
+  <entity id="132" start="733" end="742" type="chemical" preferred_form="detergent" original_resource="ChEBI" original_id="CHEBI:27780">detergent</entity>
+  <entity id="133" start="733" end="742" type="chemical" preferred_form="Detergents" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D003902">detergent</entity>
+  <entity id="134" start="867" end="872" type="chemical" preferred_form="group" original_resource="ChEBI" original_id="CHEBI:24433">group</entity>
+  <entity id="135" start="978" end="987" type="chemical" preferred_form="molecule" original_resource="ChEBI" original_id="CHEBI:25367">molecules</entity>
+</entities>

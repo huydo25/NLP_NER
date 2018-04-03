@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entities article_id="unknown">
+  <entity id="1" start="24" end="28" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="2" start="24" end="28" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+  <entity id="3" start="29" end="34" type="chemical" preferred_form="alpha-particle" original_resource="ChEBI" original_id="CHEBI:30216">alpha</entity>
+  <entity id="4" start="35" end="44" type="molecular_function" preferred_form="oxidoreductase activity, acting on single donors with incorporation of molecular oxygen" original_resource="Gene Ontology" original_id="GO:0016701">oxygenase</entity>
+  <entity id="5" start="74" end="87" type="chemical" preferred_form="prostaglandin" original_resource="ChEBI" original_id="CHEBI:26333">prostaglandin</entity>
+  <entity id="6" start="101" end="123" type="chemical" preferred_form="long-chain fatty acid" original_resource="ChEBI" original_id="CHEBI:15904">Long-chain fatty acids</entity>
+  <entity id="7" start="106" end="111" type="sequence" preferred_form="mature_protein_region" original_resource="Sequence Ontology" original_id="SO:0000419">chain</entity>
+  <entity id="8" start="112" end="123" type="chemical" preferred_form="Fatty Acids" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D005227">fatty acids</entity>
+  <entity id="9" start="112" end="123" type="chemical" preferred_form="fatty acid" original_resource="ChEBI" original_id="CHEBI:35366">fatty acids</entity>
+  <entity id="10" start="118" end="123" type="chemical" preferred_form="acid" original_resource="ChEBI" original_id="CHEBI:37527">acids</entity>
+  <entity id="11" start="124" end="127" type="gene/protein" preferred_form="carbonic anhydrase 2" original_resource="Protein Ontology" original_id="PR:000034449">can</entity>
+  <entity id="12" start="146" end="150" type="gene/protein" preferred_form="beta-Ala-His dipeptidase (rat)" original_resource="Protein Ontology" original_id="PR:Q66HG3">Cn-1</entity>
+  <entity id="13" start="146" end="150" type="gene/protein" preferred_form="beta-Ala-His dipeptidase" original_resource="Protein Ontology" original_id="PR:000005628">Cn-1</entity>
+  <entity id="14" start="146" end="150" type="gene/protein" preferred_form="beta-Ala-His dipeptidase (mouse)" original_resource="Protein Ontology" original_id="PR:Q8BUG2">Cn-1</entity>
+  <entity id="15" start="151" end="160" type="chemical" preferred_form="Aldehydes" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D000447">aldehydes</entity>
+  <entity id="16" start="151" end="160" type="chemical" preferred_form="aldehyde" original_resource="ChEBI" original_id="CHEBI:17478">aldehydes</entity>
+  <entity id="17" start="164" end="169" type="chemical" preferred_form="alpha-particle" original_resource="ChEBI" original_id="CHEBI:30216">alpha</entity>
+  <entity id="18" start="279" end="289" type="chemical" preferred_form="nucleotide" original_resource="ChEBI" original_id="CHEBI:36976">nucleotide</entity>
+  <entity id="19" start="290" end="298" type="sequence" preferred_form="region" original_resource="Sequence Ontology" original_id="SO:0000001">sequence</entity>
+  <entity id="20" start="302" end="312" type="chemical" preferred_form="fatty acid" original_resource="ChEBI" original_id="CHEBI:35366">fatty acid</entity>
+  <entity id="21" start="308" end="312" type="chemical" preferred_form="acid" original_resource="ChEBI" original_id="CHEBI:37527">acid</entity>
+  <entity id="22" start="313" end="318" type="chemical" preferred_form="alpha-particle" original_resource="ChEBI" original_id="CHEBI:30216">alpha</entity>
+  <entity id="23" start="319" end="328" type="molecular_function" preferred_form="oxidoreductase activity, acting on single donors with incorporation of molecular oxygen" original_resource="Gene Ontology" original_id="GO:0016701">oxygenase</entity>
+  <entity id="24" start="329" end="333" type="sequence" preferred_form="gene" original_resource="Sequence Ontology" original_id="SO:0000704">gene</entity>
+  <entity id="25" start="337" end="341" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="26" start="337" end="341" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+  <entity id="27" start="349" end="354" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza</entity>
+  <entity id="28" start="349" end="361" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">Oryza sativa</entity>
+  <entity id="29" start="349" end="361" type="organism" preferred_form="Oryza sativa (Indica Group) x Oryza nivara" original_resource="NCBI Taxonomy" original_id="311553">Oryza sativa</entity>
+  <entity id="30" start="349" end="361" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">Oryza sativa</entity>
+  <entity id="31" start="388" end="393" type="chemical" preferred_form="primary amino group" original_resource="ChEBI" original_id="CHEBI:46882">amino</entity>
+  <entity id="32" start="388" end="398" type="chemical" preferred_form="amino acid" original_resource="ChEBI" original_id="CHEBI:33709">amino acid</entity>
+  <entity id="33" start="388" end="398" type="chemical" preferred_form="alpha-amino acid" original_resource="ChEBI" original_id="CHEBI:33704">amino acid</entity>
+  <entity id="34" start="388" end="398" type="sequence" preferred_form="amino_acid" original_resource="Sequence Ontology" original_id="SO:0001237">amino acid</entity>
+  <entity id="35" start="394" end="398" type="chemical" preferred_form="acid" original_resource="ChEBI" original_id="CHEBI:37527">acid</entity>
+  <entity id="36" start="399" end="407" type="sequence" preferred_form="region" original_resource="Sequence Ontology" original_id="SO:0000001">sequence</entity>
+  <entity id="37" start="455" end="468" type="chemical" preferred_form="prostaglandin" original_resource="ChEBI" original_id="CHEBI:26333">prostaglandin</entity>
+  <entity id="38" start="492" end="496" type="sequence" preferred_form="gene" original_resource="Sequence Ontology" original_id="SO:0000704">gene</entity>
+  <entity id="39" start="514" end="525" type="organism" preferred_form="Escherichia" original_resource="MeSH desc (Organisms)" original_id="D004925">Escherichia</entity>
+  <entity id="40" start="514" end="530" type="organism" preferred_form="Escherichia coli" original_resource="MeSH desc (Organisms)" original_id="D004926">Escherichia coli</entity>
+  <entity id="41" start="514" end="530" type="organism" preferred_form="Escherichia coli" original_resource="NCBI Taxonomy" original_id="562">Escherichia coli</entity>
+  <entity id="42" start="613" end="626" type="chemical" preferred_form="linoleic acid" original_resource="ChEBI" original_id="CHEBI:17351">linoleic acid</entity>
+  <entity id="43" start="613" end="626" type="chemical" preferred_form="Linoleic Acid" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D019787">linoleic acid</entity>
+  <entity id="44" start="622" end="626" type="chemical" preferred_form="acid" original_resource="ChEBI" original_id="CHEBI:37527">acid</entity>
+  <entity id="45" start="654" end="667" type="chemical" preferred_form="hydroperoxide" original_resource="ChEBI" original_id="CHEBI:35923">hydroperoxide</entity>
+  <entity id="46" start="654" end="667" type="chemical" preferred_form="ROOH" original_resource="ChEBI" original_id="CHEBI:79974">hydroperoxide</entity>
+  <entity id="47" start="654" end="667" type="chemical" preferred_form="Hydrogen Peroxide" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D006861">hydroperoxide</entity>
+  <entity id="48" start="675" end="685" type="chemical" preferred_form="fatty acid" original_resource="ChEBI" original_id="CHEBI:35366">fatty acid</entity>
+  <entity id="49" start="681" end="685" type="chemical" preferred_form="acid" original_resource="ChEBI" original_id="CHEBI:37527">acid</entity>
+  <entity id="50" start="755" end="759" type="gene/protein" preferred_form="beta-Ala-His dipeptidase (rat)" original_resource="Protein Ontology" original_id="PR:Q66HG3">Cn-1</entity>
+  <entity id="51" start="755" end="759" type="gene/protein" preferred_form="beta-Ala-His dipeptidase" original_resource="Protein Ontology" original_id="PR:000005628">Cn-1</entity>
+  <entity id="52" start="755" end="759" type="gene/protein" preferred_form="beta-Ala-His dipeptidase (mouse)" original_resource="Protein Ontology" original_id="PR:Q8BUG2">Cn-1</entity>
+  <entity id="53" start="760" end="768" type="chemical" preferred_form="aldehyde" original_resource="ChEBI" original_id="CHEBI:17478">aldehyde</entity>
+  <entity id="54" start="787" end="801" type="chemical" preferred_form="Linoleic Acids" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D008041">linoleic acids</entity>
+  <entity id="55" start="796" end="801" type="chemical" preferred_form="acid" original_resource="ChEBI" original_id="CHEBI:37527">acids</entity>
+  <entity id="56" start="818" end="822" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="57" start="818" end="822" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+  <entity id="58" start="823" end="828" type="chemical" preferred_form="alpha-particle" original_resource="ChEBI" original_id="CHEBI:30216">alpha</entity>
+  <entity id="59" start="829" end="838" type="molecular_function" preferred_form="oxidoreductase activity, acting on single donors with incorporation of molecular oxygen" original_resource="Gene Ontology" original_id="GO:0016701">oxygenase</entity>
+  <entity id="60" start="1117" end="1127" type="chemical" preferred_form="dithionite(2-)" original_resource="ChEBI" original_id="CHEBI:42160">dithionite</entity>
+  <entity id="61" start="1117" end="1127" type="chemical" preferred_form="Dithionite" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D004227">dithionite</entity>
+  <entity id="62" start="1187" end="1198" type="sequence" preferred_form="mutated_variant_site" original_resource="Sequence Ontology" original_id="SO:0001148">mutagenesis</entity>
+  <entity id="63" start="1187" end="1198" type="biological_process" preferred_form="obsolete mutagenesis" original_resource="Gene Ontology" original_id="GO:0006280">mutagenesis</entity>
+  <entity id="64" start="1213" end="1216" type="chemical" preferred_form="L-histidyl group" original_resource="ChEBI" original_id="CHEBI:32514">His</entity>
+  <entity id="65" start="1213" end="1216" type="chemical" preferred_form="N(2)-L-histidino group" original_resource="ChEBI" original_id="CHEBI:32515">His</entity>
+  <entity id="66" start="1213" end="1216" type="chemical" preferred_form="L-histidine residue" original_resource="ChEBI" original_id="CHEBI:29979">His</entity>
+  <entity id="67" start="1213" end="1216" type="chemical" preferred_form="L-histidine" original_resource="ChEBI" original_id="CHEBI:15971">His</entity>
+  <entity id="68" start="1213" end="1216" type="sequence" preferred_form="histidine" original_resource="Sequence Ontology" original_id="SO:0001452">His</entity>
+  <entity id="69" start="1222" end="1225" type="chemical" preferred_form="L-tyrosyl group" original_resource="ChEBI" original_id="CHEBI:32764">Tyr</entity>
+  <entity id="70" start="1222" end="1225" type="chemical" preferred_form="L-tyrosino group" original_resource="ChEBI" original_id="CHEBI:46857">Tyr</entity>
+  <entity id="71" start="1222" end="1225" type="chemical" preferred_form="L-tyrosine residue" original_resource="ChEBI" original_id="CHEBI:46858">Tyr</entity>
+  <entity id="72" start="1222" end="1225" type="chemical" preferred_form="L-tyrosinyl radical residue" original_resource="ChEBI" original_id="CHEBI:32766">Tyr</entity>
+  <entity id="73" start="1222" end="1225" type="chemical" preferred_form="L-tyrosinate residue" original_resource="ChEBI" original_id="CHEBI:29977">Tyr</entity>
+  <entity id="74" start="1222" end="1225" type="sequence" preferred_form="tyrosine" original_resource="Sequence Ontology" original_id="SO:0001446">Tyr</entity>
+  <entity id="75" start="1222" end="1225" type="gene/protein" preferred_form="tyrosinase" original_resource="Protein Ontology" original_id="PR:000016877">Tyr</entity>
+  <entity id="76" start="1222" end="1225" type="chemical" preferred_form="L-tyrosine" original_resource="ChEBI" original_id="CHEBI:17895">Tyr</entity>
+  <entity id="77" start="1222" end="1225" type="gene/protein" preferred_form="tyramine/octopamine receptor (fruit fly)" original_resource="Protein Ontology" original_id="PR:P22270">Tyr</entity>
+  <entity id="78" start="1222" end="1225" type="chemical" preferred_form="tyrosine" original_resource="ChEBI" original_id="CHEBI:18186">Tyr</entity>
+  <entity id="79" start="1235" end="1238" type="chemical" preferred_form="L-serino group" original_resource="ChEBI" original_id="CHEBI:32839">Ser</entity>
+  <entity id="80" start="1235" end="1238" type="chemical" preferred_form="L-serine" original_resource="ChEBI" original_id="CHEBI:17115">Ser</entity>
+  <entity id="81" start="1235" end="1238" type="sequence" preferred_form="serine" original_resource="Sequence Ontology" original_id="SO:0001444">Ser</entity>
+  <entity id="82" start="1235" end="1238" type="chemical" preferred_form="L-seryl group" original_resource="ChEBI" original_id="CHEBI:32838">Ser</entity>
+  <entity id="83" start="1235" end="1238" type="gene/protein" preferred_form="sialoadhesin" original_resource="Protein Ontology" original_id="PR:000001931">Ser</entity>
+  <entity id="84" start="1235" end="1238" type="cellular_component" preferred_form="smooth endoplasmic reticulum" original_resource="Gene Ontology" original_id="GO:0005790">Ser</entity>
+  <entity id="85" start="1235" end="1238" type="chemical" preferred_form="L-serine residue" original_resource="ChEBI" original_id="CHEBI:29999">Ser</entity>
+  <entity id="86" start="1235" end="1238" type="gene/protein" preferred_form="Sialoadhesin" original_resource="Swiss-Prot" original_id="Q62230">Ser</entity>
+  <entity id="87" start="1266" end="1271" type="chemical" preferred_form="alpha-particle" original_resource="ChEBI" original_id="CHEBI:30216">alpha</entity>
+  <entity id="88" start="1272" end="1281" type="molecular_function" preferred_form="oxidoreductase activity, acting on single donors with incorporation of molecular oxygen" original_resource="Gene Ontology" original_id="GO:0016701">oxygenase</entity>
+  <entity id="89" start="1311" end="1320" type="sequence" preferred_form="conserved" original_resource="Sequence Ontology" original_id="SO:0000856">conserved</entity>
+  <entity id="90" start="1344" end="1348" type="chemical" preferred_form="heme" original_resource="ChEBI" original_id="CHEBI:30413">heme</entity>
+  <entity id="91" start="1344" end="1348" type="chemical" preferred_form="ferroheme b" original_resource="ChEBI" original_id="CHEBI:17627">heme</entity>
+  <entity id="92" start="1344" end="1348" type="chemical" preferred_form="Heme" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D006418">heme</entity>
+  <entity id="93" start="1344" end="1348" type="chemical" preferred_form="heme b" original_resource="ChEBI" original_id="CHEBI:26355">heme</entity>
+  <entity id="94" start="1349" end="1355" type="molecular_function" preferred_form="binding" original_resource="Gene Ontology" original_id="GO:0005488">ligand</entity>
+  <entity id="95" start="1349" end="1355" type="chemical" preferred_form="ligand" original_resource="ChEBI" original_id="CHEBI:52214">ligand</entity>
+  <entity id="96" start="1371" end="1378" type="chemical" preferred_form="radical" original_resource="ChEBI" original_id="CHEBI:26519">radical</entity>
+  <entity id="97" start="1456" end="1463" type="sequence" preferred_form="non_covalent_binding_site" original_resource="Sequence Ontology" original_id="SO:0001091">binding</entity>
+  <entity id="98" start="1456" end="1463" type="molecular_function" preferred_form="binding" original_resource="Gene Ontology" original_id="GO:0005488">binding</entity>
+  <entity id="99" start="1456" end="1463" type="sequence" preferred_form="polypeptide_binding_motif" original_resource="Sequence Ontology" original_id="SO:0100018">binding</entity>
+  <entity id="100" start="1555" end="1560" type="chemical" preferred_form="alpha-particle" original_resource="ChEBI" original_id="CHEBI:30216">alpha</entity>
+  <entity id="101" start="1561" end="1570" type="molecular_function" preferred_form="oxidoreductase activity, acting on single donors with incorporation of molecular oxygen" original_resource="Gene Ontology" original_id="GO:0016701">oxygenase</entity>
+  <entity id="102" start="1616" end="1620" type="organism" preferred_form="Oryza" original_resource="MeSH desc (Organisms)" original_id="D012275">rice</entity>
+  <entity id="103" start="1616" end="1620" type="organism" preferred_form="Oryza sativa" original_resource="NCBI Taxonomy" original_id="4530">rice</entity>
+  <entity id="104" start="1621" end="1626" type="chemical" preferred_form="alpha-particle" original_resource="ChEBI" original_id="CHEBI:30216">alpha</entity>
+  <entity id="105" start="1627" end="1636" type="molecular_function" preferred_form="oxidoreductase activity, acting on single donors with incorporation of molecular oxygen" original_resource="Gene Ontology" original_id="GO:0016701">oxygenase</entity>
+  <entity id="106" start="1663" end="1672" type="chemical" preferred_form="1H-imidazole" original_resource="ChEBI" original_id="CHEBI:16069">imidazole</entity>
+  <entity id="107" start="1663" end="1672" type="chemical" preferred_form="imidazolium cation" original_resource="ChEBI" original_id="CHEBI:50059">imidazole</entity>
+  <entity id="108" start="1663" end="1672" type="chemical" preferred_form="imidazole" original_resource="MeSH supp (Chemicals and Drugs)" original_id="C029899">imidazole</entity>
+  <entity id="109" start="1663" end="1672" type="chemical" preferred_form="imidazole" original_resource="ChEBI" original_id="CHEBI:14434">imidazole</entity>
+  <entity id="110" start="1710" end="1733" type="chemical" preferred_form="anti-inflammatory drug" original_resource="ChEBI" original_id="CHEBI:35472">anti-inflammatory drugs</entity>
+  <entity id="111" start="1728" end="1733" type="chemical" preferred_form="drug" original_resource="ChEBI" original_id="CHEBI:23888">drugs</entity>
+  <entity id="112" start="1743" end="1750" type="chemical" preferred_form="Aspirin" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D001241">aspirin</entity>
+  <entity id="113" start="1743" end="1750" type="chemical" preferred_form="acetylsalicylic acid" original_resource="ChEBI" original_id="CHEBI:15365">aspirin</entity>
+  <entity id="114" start="1752" end="1761" type="chemical" preferred_form="levibuprofen" original_resource="ChEBI" original_id="CHEBI:47835">ibuprofen</entity>
+  <entity id="115" start="1752" end="1761" type="chemical" preferred_form="ibuprofen" original_resource="ChEBI" original_id="CHEBI:5855">ibuprofen</entity>
+  <entity id="116" start="1752" end="1761" type="chemical" preferred_form="Ibuprofen" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D007052">ibuprofen</entity>
+  <entity id="117" start="1752" end="1761" type="chemical" preferred_form="ibuprofen(1-)" original_resource="ChEBI" original_id="CHEBI:132922">ibuprofen</entity>
+  <entity id="118" start="1752" end="1761" type="chemical" preferred_form="dexibuprofen" original_resource="ChEBI" original_id="CHEBI:43415">ibuprofen</entity>
+  <entity id="119" start="1767" end="1779" type="chemical" preferred_form="(S)-flurbiprofen" original_resource="ChEBI" original_id="CHEBI:42446">flurbiprofen</entity>
+  <entity id="120" start="1767" end="1779" type="chemical" preferred_form="Flurbiprofen" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D005480">flurbiprofen</entity>
+  <entity id="121" start="1767" end="1779" type="chemical" preferred_form="flurbiprofen" original_resource="ChEBI" original_id="CHEBI:5130">flurbiprofen</entity>
+  <entity id="122" start="1813" end="1823" type="chemical" preferred_form="inhibitor" original_resource="ChEBI" original_id="CHEBI:35222">inhibitors</entity>
+  <entity id="123" start="1838" end="1848" type="gene/protein" preferred_form="Peroxidase" original_resource="Swiss-Prot" original_id="Q05855">peroxidase</entity>
+  <entity id="124" start="1838" end="1848" type="chemical" preferred_form="Peroxidase" original_resource="ChEBI" original_id="CHEBI:8027">peroxidase</entity>
+  <entity id="125" start="1838" end="1848" type="chemical" preferred_form="Peroxidase" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D009195">peroxidase</entity>
+  <entity id="126" start="1838" end="1848" type="gene/protein" preferred_form="Peroxidase" original_resource="Swiss-Prot" original_id="P28314">peroxidase</entity>
+  <entity id="127" start="1838" end="1848" type="gene/protein" preferred_form="Cytochrome P450 119" original_resource="Swiss-Prot" original_id="Q55080">peroxidase</entity>
+  <entity id="128" start="1838" end="1848" type="gene/protein" preferred_form="Peroxidase" original_resource="Swiss-Prot" original_id="P15984">peroxidase</entity>
+  <entity id="129" start="1838" end="1848" type="gene/protein" preferred_form="Peroxidase" original_resource="Swiss-Prot" original_id="P28313">peroxidase</entity>
+  <entity id="130" start="1838" end="1848" type="gene/protein" preferred_form="Peroxidase" original_resource="Swiss-Prot" original_id="B3EWG7">peroxidase</entity>
+  <entity id="131" start="1838" end="1848" type="gene/protein" preferred_form="Peroxidase" original_resource="Swiss-Prot" original_id="P85317">peroxidase</entity>
+  <entity id="132" start="1838" end="1848" type="gene/protein" preferred_form="Peroxidase" original_resource="Swiss-Prot" original_id="A8NK72">peroxidase</entity>
+  <entity id="133" start="1838" end="1848" type="gene/protein" preferred_form="Peroxidase" original_resource="Swiss-Prot" original_id="Q01603">peroxidase</entity>
+  <entity id="134" start="1838" end="1848" type="gene/protein" preferred_form="Peroxidase" original_resource="Swiss-Prot" original_id="P84714">peroxidase</entity>
+  <entity id="135" start="1838" end="1848" type="gene/protein" preferred_form="Peroxidase" original_resource="Swiss-Prot" original_id="P16147">peroxidase</entity>
+  <entity id="136" start="1838" end="1848" type="gene/protein" preferred_form="Purple acid phosphatase 17" original_resource="Swiss-Prot" original_id="Q9SCX8">peroxidase</entity>
+  <entity id="137" start="1838" end="1848" type="gene/protein" preferred_form="Peroxidase" original_resource="Swiss-Prot" original_id="P85957">peroxidase</entity>
+  <entity id="138" start="1838" end="1857" type="molecular_function" preferred_form="peroxidase activity" original_resource="Gene Ontology" original_id="GO:0004601">peroxidase activity</entity>
+  <entity id="139" start="1885" end="1890" type="chemical" preferred_form="alpha-particle" original_resource="ChEBI" original_id="CHEBI:30216">alpha</entity>
+  <entity id="140" start="1891" end="1900" type="molecular_function" preferred_form="oxidoreductase activity, acting on single donors with incorporation of molecular oxygen" original_resource="Gene Ontology" original_id="GO:0016701">oxygenase</entity>
+  <entity id="141" start="1906" end="1919" type="chemical" preferred_form="hexadecanoic acid" original_resource="ChEBI" original_id="CHEBI:15756">palmitic acid</entity>
+  <entity id="142" start="1906" end="1919" type="chemical" preferred_form="Palmitic Acid" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D019308">palmitic acid</entity>
+  <entity id="143" start="1915" end="1919" type="chemical" preferred_form="acid" original_resource="ChEBI" original_id="CHEBI:37527">acid</entity>
+  <entity id="144" start="1915" end="1921" type="gene/protein" preferred_form="prostate tumor-overexpressed gene 1 protein" original_resource="Protein Ontology" original_id="PR:000013439">acid 2</entity>
+  <entity id="145" start="1922" end="1935" type="chemical" preferred_form="hydroperoxide" original_resource="ChEBI" original_id="CHEBI:35923">hydroperoxide</entity>
+  <entity id="146" start="1922" end="1935" type="chemical" preferred_form="ROOH" original_resource="ChEBI" original_id="CHEBI:79974">hydroperoxide</entity>
+  <entity id="147" start="1922" end="1935" type="chemical" preferred_form="Hydrogen Peroxide" original_resource="MeSH desc (Chemicals and Drugs)" original_id="D006861">hydroperoxide</entity>
+  <entity id="148" start="2016" end="2021" type="chemical" preferred_form="alpha-particle" original_resource="ChEBI" original_id="CHEBI:30216">alpha</entity>
+  <entity id="149" start="2022" end="2031" type="molecular_function" preferred_form="oxidoreductase activity, acting on single donors with incorporation of molecular oxygen" original_resource="Gene Ontology" original_id="GO:0016701">oxygenase</entity>
+</entities>

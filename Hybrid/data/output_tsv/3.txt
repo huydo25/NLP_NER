@@ -1,0 +1,65 @@
+DOCUMENT ID	TYPE	START POSITION	END POSITION	MATCHED TERM	PREFERRED FORM	ENTITY ID	ZONE	SENTENCE ID	ORIGIN
+unknown	sequence	68	72	gene	gene	SO:0000704		S1	Sequence Ontology
+unknown	organism	83	87	rice	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	83	87	rice	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	organism	88	93	Oryza	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	88	100	Oryza sativa	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	88	100	Oryza sativa	Oryza sativa (Indica Group) x Oryza nivara	311553		S1	NCBI Taxonomy
+unknown	organism	88	100	Oryza sativa	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	biological_process	102	123	Somatic embryogenesis	somatic embryogenesis	GO:0010262		S2	Gene Ontology
+unknown	biological_process	110	123	embryogenesis	embryo development	GO:0009790		S2	Gene Ontology
+unknown	biological_process	110	123	embryogenesis	embryo development ending in birth or egg hatching	GO:0009792		S2	Gene Ontology
+unknown	biological_process	110	123	embryogenesis	embryo development ending in seed dormancy	GO:0009793		S2	Gene Ontology
+unknown	organism	258	269	angiosperms	Angiosperms	D019684		S2	MeSH desc (Organisms)
+unknown	sequence	308	312	cDNA	cDNA	SO:0000756		S3	Sequence Ontology
+unknown	chemical	308	312	cDNA	DNA, Complementary	D018076		S3	MeSH desc (Chemicals and Drugs)
+unknown	organism	344	349	Oryza	Oryza	D012275		S3	MeSH desc (Organisms)
+unknown	chemical	407	414	leucine	L-leucine	CHEBI:15603		S3	ChEBI
+unknown	chemical	407	414	leucine	leucine	CHEBI:25017		S3	ChEBI
+unknown	chemical	407	414	leucine	Leucine	D007930		S3	MeSH desc (Chemicals and Drugs)
+unknown	sequence	407	414	leucine	leucine	SO:0001437		S3	Sequence Ontology
+unknown	sequence	420	426	repeat	polypeptide_repeat	SO:0001068		S3	Sequence Ontology
+unknown	gene/protein	448	451	LRR	Putative leucine-rich repeat protein PS14	P84730		S3	Swiss-Prot
+unknown	gene/protein	452	455	RLK	tyrosine-protein kinase TXK (mouse)	PR:P42682		S3	Protein Ontology
+unknown	gene/protein	452	455	RLK	plant leucine rich repeat receptor-like kinase	PR:000036147		S3	Protein Ontology
+unknown	gene/protein	452	455	RLK	tyrosine-protein kinase TXK	PR:000016850		S3	Protein Ontology
+unknown	organism	467	471	rice	Oryza	D012275		S3	MeSH desc (Organisms)
+unknown	organism	467	471	rice	Oryza sativa	4530		S3	NCBI Taxonomy
+unknown	organism	472	477	Oryza	Oryza	D012275		S3	MeSH desc (Organisms)
+unknown	organism	472	484	Oryza sativa	Oryza	D012275		S3	MeSH desc (Organisms)
+unknown	organism	472	484	Oryza sativa	Oryza sativa (Indica Group) x Oryza nivara	311553		S3	NCBI Taxonomy
+unknown	organism	472	484	Oryza sativa	Oryza sativa	4530		S3	NCBI Taxonomy
+unknown	biological_process	538	559	somatic embryogenesis	somatic embryogenesis	GO:0010262		S3	Gene Ontology
+unknown	biological_process	546	559	embryogenesis	embryo development	GO:0009790		S3	Gene Ontology
+unknown	biological_process	546	559	embryogenesis	embryo development ending in birth or egg hatching	GO:0009792		S3	Gene Ontology
+unknown	biological_process	546	559	embryogenesis	embryo development ending in seed dormancy	GO:0009793		S3	Gene Ontology
+unknown	organism	588	592	rice	Oryza	D012275		S4	MeSH desc (Organisms)
+unknown	organism	588	592	rice	Oryza sativa	4530		S4	NCBI Taxonomy
+unknown	gene/protein	632	636	TIGR	KICSTOR complex protein SZT2	PR:000031106		S4	Protein Ontology
+unknown	gene/protein	632	636	TIGR	KICSTOR complex protein SZT2	A2A9C3		S4	Swiss-Prot
+unknown	gene/protein	632	636	TIGR	myocilin (mouse)	PR:O70624		S4	Protein Ontology
+unknown	gene/protein	632	636	TIGR	myocilin (rat)	PR:Q9R1J4		S4	Protein Ontology
+unknown	gene/protein	632	636	TIGR	myocilin	PR:000010873		S4	Protein Ontology
+unknown	chemical	660	675	brassinosteroid	brassinosteroid	CHEBI:22921		S4	ChEBI
+unknown	gene/protein	717	726	precursor	nodal protein isoform 1	PR:000000291		S4	Protein Ontology
+unknown	gene/protein	717	726	precursor	TGF-beta 1 isoform 1	PR:000000397		S4	Protein Ontology
+unknown	gene/protein	717	726	precursor	cartilage oligomeric matrix protein isoform 1	PR:000000230		S4	Protein Ontology
+unknown	sequence	749	754	chain	mature_protein_region	SO:0000419		S5	Sequence Ontology
+unknown	sequence	800	810	transcript	transcript	SO:0000673		S5	Sequence Ontology
+unknown	chemical	877	893	brassinosteroids	Brassinosteroids	D060406		S6	MeSH desc (Chemicals and Drugs)
+unknown	chemical	877	893	brassinosteroids	brassinosteroid	CHEBI:22921		S6	ChEBI
+unknown	chemical	933	938	auxin	auxin	CHEBI:22676		S6	ChEBI
+unknown	chemical	933	938	auxin	Indoleacetic Acids	D007210		S6	MeSH desc (Chemicals and Drugs)
+unknown	sequence	1076	1083	complex	complex_structural_alteration	SO:0001784		S7	Sequence Ontology
+unknown	biological_process	1176	1197	somatic embryogenesis	somatic embryogenesis	GO:0010262		S8	Gene Ontology
+unknown	biological_process	1184	1197	embryogenesis	embryo development	GO:0009790		S8	Gene Ontology
+unknown	biological_process	1184	1197	embryogenesis	embryo development ending in birth or egg hatching	GO:0009792		S8	Gene Ontology
+unknown	biological_process	1184	1197	embryogenesis	embryo development ending in seed dormancy	GO:0009793		S8	Gene Ontology
+unknown	chemical	1217	1221	role	role	CHEBI:50906		S8	ChEBI
+unknown	biological_process	1225	1238	morphogenesis	anatomical structure morphogenesis	GO:0009653		S8	Gene Ontology
+unknown	organism	1251	1256	other	unidentified	32644		S8	NCBI Taxonomy
+unknown	biological_process	1319	1340	somatic embryogenesis	somatic embryogenesis	GO:0010262		S9	Gene Ontology
+unknown	biological_process	1327	1340	embryogenesis	embryo development	GO:0009790		S9	Gene Ontology
+unknown	biological_process	1327	1340	embryogenesis	embryo development ending in birth or egg hatching	GO:0009792		S9	Gene Ontology
+unknown	biological_process	1327	1340	embryogenesis	embryo development ending in seed dormancy	GO:0009793		S9	Gene Ontology
+unknown	biological_process	1454	1465	development	developmental process	GO:0032502		S9	Gene Ontology

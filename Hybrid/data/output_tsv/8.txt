@@ -1,0 +1,103 @@
+DOCUMENT ID	TYPE	START POSITION	END POSITION	MATCHED TERM	PREFERRED FORM	ENTITY ID	ZONE	SENTENCE ID	ORIGIN
+unknown	cell_line	72	75	gl1	GL1	CVCL_9175		S1	Cellosaurus
+unknown	cell_line	72	75	gl1	GL-1 [Gecko]	CVCL_4207		S1	Cellosaurus
+unknown	organism	79	83	rice	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	79	83	rice	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	organism	84	89	Oryza	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	84	96	Oryza sativa	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	84	96	Oryza sativa	Oryza sativa (Indica Group) x Oryza nivara	311553		S1	NCBI Taxonomy
+unknown	organism	84	96	Oryza sativa	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	cell_line	128	131	gl1	GL1	CVCL_9175		S1	Cellosaurus
+unknown	cell_line	128	131	gl1	GL-1 [Gecko]	CVCL_4207		S1	Cellosaurus
+unknown	biological_process	269	275	growth	growth	GO:0040007		S2	Gene Ontology
+unknown	chemical	318	326	electron	electron	CHEBI:10545		S3	ChEBI
+unknown	sequence	482	490	mutation	sequence_variant_obs	SO:0000109		S4	Sequence Ontology
+unknown	sequence	511	517	single	single	SO:0000984		S4	Sequence Ontology
+unknown	sequence	528	532	gene	gene	SO:0000704		S4	Sequence Ontology
+unknown	chemical	545	548	SSR	sodium 2-amino-5-[(1-methoxy-2-methylindolizin-3-yl)carbonyl]benzoate	CHEBI:73280		S5	ChEBI
+unknown	cellular_component	545	548	SSR	subsynaptic reticulum	GO:0071212		S5	Gene Ontology
+unknown	sequence	565	570	InDel	indel	SO:1000032		S5	Sequence Ontology
+unknown	cell_line	583	586	gl1	GL1	CVCL_9175		S5	Cellosaurus
+unknown	cell_line	583	586	gl1	GL-1 [Gecko]	CVCL_4207		S5	Cellosaurus
+unknown	sequence	587	591	gene	gene	SO:0000704		S5	Sequence Ontology
+unknown	gene/protein	642	645	arm	mediator of RNA polymerase II transcription subunit 18 (fruit fly)	PR:Q9XZT1		S5	Protein Ontology
+unknown	sequence	649	659	chromosome	chromosome	SO:0000340		S5	Sequence Ontology
+unknown	cellular_component	649	659	chromosome	chromosome	GO:0005694		S5	Gene Ontology
+unknown	cell_line	704	707	gl1	GL1	CVCL_9175		S5	Cellosaurus
+unknown	cell_line	704	707	gl1	GL-1 [Gecko]	CVCL_4207		S5	Cellosaurus
+unknown	gene/protein	747	750	map	methionine aminopeptidase	PR:000023165		S6	Protein Ontology
+unknown	gene/protein	747	750	map	extracellular adherence protein	PR:000029173		S6	Protein Ontology
+unknown	cell_line	772	775	gl1	GL1	CVCL_9175		S6	Cellosaurus
+unknown	cell_line	772	775	gl1	GL-1 [Gecko]	CVCL_4207		S6	Cellosaurus
+unknown	sequence	776	780	gene	gene	SO:0000704		S6	Sequence Ontology
+unknown	sequence	789	794	InDel	indel	SO:1000032		S6	Sequence Ontology
+unknown	sequence	849	861	physical map	fragment_assembly	SO:0001249		S7	Sequence Ontology
+unknown	gene/protein	858	861	map	methionine aminopeptidase	PR:000023165		S7	Protein Ontology
+unknown	gene/protein	858	861	map	extracellular adherence protein	PR:000029173		S7	Protein Ontology
+unknown	cell_line	951	954	gl1	GL1	CVCL_9175		S8	Cellosaurus
+unknown	cell_line	951	954	gl1	GL-1 [Gecko]	CVCL_4207		S8	Cellosaurus
+unknown	sequence	980	986	region	region	SO:0000001		S8	Sequence Ontology
+unknown	sequence	980	986	region	polypeptide_region	SO:0000839		S8	Sequence Ontology
+unknown	sequence	1055	1061	region	region	SO:0000001		S9	Sequence Ontology
+unknown	sequence	1055	1061	region	polypeptide_region	SO:0000839		S9	Sequence Ontology
+unknown	cell_line	1072	1075	gl1	GL1	CVCL_9175		S9	Cellosaurus
+unknown	cell_line	1072	1075	gl1	GL-1 [Gecko]	CVCL_4207		S9	Cellosaurus
+unknown	cell_line	1084	1087	gl1	GL1	CVCL_9175		S9	Cellosaurus
+unknown	cell_line	1084	1087	gl1	GL-1 [Gecko]	CVCL_4207		S9	Cellosaurus
+unknown	cell_line	1091	1094	gl1	GL1	CVCL_9175		S9	Cellosaurus
+unknown	cell_line	1091	1094	gl1	GL-1 [Gecko]	CVCL_4207		S9	Cellosaurus
+unknown	cell_line	1098	1101	gl1	GL1	CVCL_9175		S9	Cellosaurus
+unknown	cell_line	1098	1101	gl1	GL-1 [Gecko]	CVCL_4207		S9	Cellosaurus
+unknown	cell_line	1108	1111	gl1	GL1	CVCL_9175		S9	Cellosaurus
+unknown	cell_line	1108	1111	gl1	GL-1 [Gecko]	CVCL_4207		S9	Cellosaurus
+unknown	organism	1132	1136	rice	Oryza	D012275		S9	MeSH desc (Organisms)
+unknown	organism	1132	1136	rice	Oryza sativa	4530		S9	NCBI Taxonomy
+unknown	sequence	1208	1214	single	single	SO:0000984		S9	Sequence Ontology
+unknown	sequence	1215	1229	point mutation	point_mutation	SO:1000008		S9	Sequence Ontology
+unknown	sequence	1221	1229	mutation	sequence_variant_obs	SO:0000109		S9	Sequence Ontology
+unknown	chemical	1252	1274	5'-untranslated region	5' Untranslated Regions	D020121		S9	MeSH desc (Chemicals and Drugs)
+unknown	chemical	1255	1274	untranslated region	Untranslated Regions	D020506		S9	MeSH desc (Chemicals and Drugs)
+unknown	sequence	1255	1274	untranslated region	UTR	SO:0000203		S9	Sequence Ontology
+unknown	sequence	1268	1274	region	region	SO:0000001		S9	Sequence Ontology
+unknown	sequence	1268	1274	region	polypeptide_region	SO:0000839		S9	Sequence Ontology
+unknown	sequence	1275	1278	UTR	UTR	SO:0000203		S9	Sequence Ontology
+unknown	sequence	1275	1278	UTR	UTR_variant	SO:0001622		S9	Sequence Ontology
+unknown	chemical	1326	1332	3'-UTR	3' Untranslated Regions	D020413		S9	MeSH desc (Chemicals and Drugs)
+unknown	sequence	1329	1332	UTR	UTR	SO:0000203		S9	Sequence Ontology
+unknown	sequence	1329	1332	UTR	UTR_variant	SO:0001622		S9	Sequence Ontology
+unknown	disease	1336	1340	STAR	Toe Syndactyly, Telecanthus, and Anogenital and Renal Malformations	C567475		S9	CTD (MESH)
+unknown	gene/protein	1336	1340	STAR	heat-stable enterotoxin receptor	PR:000008352		S9	Protein Ontology
+unknown	gene/protein	1336	1340	STAR	steroidogenic acute regulatory protein, mitochondrial	PR:000015715		S9	Protein Ontology
+unknown	cell_line	1336	1340	STAR	STAR	CVCL_AR73		S9	Cellosaurus
+unknown	gene/protein	1346	1349	PCR	Protochlorophyllide reductase, chloroplastic	O80333		S10	Swiss-Prot
+unknown	gene/protein	1346	1349	PCR	Protochlorophyllide reductase, chloroplastic	Q01289		S10	Swiss-Prot
+unknown	gene/protein	1346	1349	PCR	Protochlorophyllide reductase, chloroplastic	Q39617		S10	Swiss-Prot
+unknown	gene/protein	1346	1349	PCR	Light-dependent protochlorophyllide reductase	Q59987		S10	Swiss-Prot
+unknown	gene/protein	1346	1349	PCR	Protochlorophyllide reductase, chloroplastic	Q9SDT1		S10	Swiss-Prot
+unknown	gene/protein	1346	1349	PCR	Light-dependent protochlorophyllide reductase	O66148		S10	Swiss-Prot
+unknown	gene/protein	1346	1349	PCR	Protochlorophyllide reductase, chloroplastic	Q41249		S10	Swiss-Prot
+unknown	gene/protein	1346	1349	PCR	Protochlorophyllide reductase	P15904		S10	Swiss-Prot
+unknown	chemical	1403	1407	mRNA	RNA, Messenger	D012333		S10	MeSH desc (Chemicals and Drugs)
+unknown	sequence	1403	1407	mRNA	mRNA	SO:0000234		S10	Sequence Ontology
+unknown	chemical	1403	1407	mRNA	messenger RNA	CHEBI:33699		S10	ChEBI
+unknown	cell_line	1439	1442	gl1	GL1	CVCL_9175		S10	Cellosaurus
+unknown	cell_line	1439	1442	gl1	GL-1 [Gecko]	CVCL_4207		S10	Cellosaurus
+unknown	cellular_component	1451	1454	RNA	obsolete RNA	GO:0005562		S11	Gene Ontology
+unknown	sequence	1451	1454	RNA	RNA	SO:0000356		S11	Sequence Ontology
+unknown	chemical	1451	1454	RNA	ribonucleic acid	CHEBI:33697		S11	ChEBI
+unknown	chemical	1451	1454	RNA	RNA	D012313		S11	MeSH desc (Chemicals and Drugs)
+unknown	chemical	1451	1454	RNA	(ribonucleotide)n+m	CHEBI:18273		S11	ChEBI
+unknown	sequence	1455	1474	secondary structure	polypeptide_secondary_structure	SO:0001078		S11	Sequence Ontology
+unknown	sequence	1502	1508	single	single	SO:0000984		S11	Sequence Ontology
+unknown	sequence	1509	1523	point mutation	point_mutation	SO:1000008		S11	Sequence Ontology
+unknown	sequence	1515	1523	mutation	sequence_variant_obs	SO:0000109		S11	Sequence Ontology
+unknown	cellular_component	1547	1550	RNA	obsolete RNA	GO:0005562		S11	Gene Ontology
+unknown	sequence	1547	1550	RNA	RNA	SO:0000356		S11	Sequence Ontology
+unknown	chemical	1547	1550	RNA	ribonucleic acid	CHEBI:33697		S11	ChEBI
+unknown	chemical	1547	1550	RNA	RNA	D012313		S11	MeSH desc (Chemicals and Drugs)
+unknown	chemical	1547	1550	RNA	(ribonucleotide)n+m	CHEBI:18273		S11	ChEBI
+unknown	sequence	1605	1611	single	single	SO:0000984		S12	Sequence Ontology
+unknown	sequence	1612	1626	point mutation	point_mutation	SO:1000008		S12	Sequence Ontology
+unknown	sequence	1618	1626	mutation	sequence_variant_obs	SO:0000109		S12	Sequence Ontology
+unknown	organism	1699	1703	rice	Oryza	D012275		S12	MeSH desc (Organisms)
+unknown	organism	1699	1703	rice	Oryza sativa	4530		S12	NCBI Taxonomy

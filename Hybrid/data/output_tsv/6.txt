@@ -1,0 +1,310 @@
+DOCUMENT ID	TYPE	START POSITION	END POSITION	MATCHED TERM	PREFERRED FORM	ENTITY ID	ZONE	SENTENCE ID	ORIGIN
+unknown	organism	28	32	rice	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	28	32	rice	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	molecular_function	33	40	kinesin	microtubule motor activity	GO:0003777		S1	Gene Ontology
+unknown	chemical	33	40	kinesin	Kinesin	D016547		S1	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	33	44	kinesin O12	Kinesin-like protein KIN-14Q	Q0IMS9		S1	Swiss-Prot
+unknown	cell_line	41	44	O12	JHU-012	CVCL_5987		S1	Cellosaurus
+unknown	chemical	52	60	calponin	calponin	C056623		S1	MeSH supp (Chemicals and Drugs)
+unknown	sequence	70	76	domain	polypeptide_domain	SO:0000417		S1	Sequence Ontology
+unknown	sequence	95	104	predicted	predicted	SO:0000732		S2	Sequence Ontology
+unknown	organism	114	118	rice	Oryza	D012275		S2	MeSH desc (Organisms)
+unknown	organism	114	118	rice	Oryza sativa	4530		S2	NCBI Taxonomy
+unknown	organism	119	124	Oryza	Oryza	D012275		S2	MeSH desc (Organisms)
+unknown	organism	119	131	Oryza sativa	Oryza	D012275		S2	MeSH desc (Organisms)
+unknown	organism	119	131	Oryza sativa	Oryza sativa (Indica Group) x Oryza nivara	311553		S2	NCBI Taxonomy
+unknown	organism	119	131	Oryza sativa	Oryza sativa	4530		S2	NCBI Taxonomy
+unknown	sequence	146	152	genome	genome	SO:0001026		S3	Sequence Ontology
+unknown	molecular_function	173	180	kinesin	microtubule motor activity	GO:0003777		S3	Gene Ontology
+unknown	chemical	173	180	kinesin	Kinesin	D016547		S3	MeSH desc (Chemicals and Drugs)
+unknown	chemical	186	194	proteins	protein	CHEBI:36080		S3	ChEBI
+unknown	molecular_function	215	222	kinesin	microtubule motor activity	GO:0003777		S3	Gene Ontology
+unknown	chemical	215	222	kinesin	Kinesin	D016547		S3	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	215	226	kinesin O12	Kinesin-like protein KIN-14Q	Q0IMS9		S3	Swiss-Prot
+unknown	cell_line	223	226	O12	JHU-012	CVCL_5987		S3	Cellosaurus
+unknown	molecular_function	253	260	kinesin	microtubule motor activity	GO:0003777		S3	Gene Ontology
+unknown	chemical	253	260	kinesin	Kinesin	D016547		S3	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	253	263	kinesin-14	Kinesin-related protein 2	Q9BPU3		S3	Swiss-Prot
+unknown	cell_line	279	282	O12	JHU-012	CVCL_5987		S4	Cellosaurus
+unknown	chemical	289	297	calponin	calponin	C056623		S4	MeSH supp (Chemicals and Drugs)
+unknown	sequence	310	316	domain	polypeptide_domain	SO:0000417		S4	Sequence Ontology
+unknown	gene/protein	337	342	actin	Actin	P51775		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q9UVX4		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P53477		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P53491		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P24902		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q8SWN8		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q92193		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P17128		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P48465		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P20904		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P45520		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	O65316		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P26183		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q9P4D1		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	O17320		S4	Swiss-Prot
+unknown	chemical	337	342	actin	Actins	D000199		S4	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	337	342	actin	Actin	Q9UVZ8		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P53500		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P53476		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	O65314		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	O00937		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q2U7A3		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P91754		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q92192		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P53455		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q8X119		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	O16808		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q39596		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P90689		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P10989		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P11426		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P78711		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	O74258		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P14235		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P30161		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q75D00		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P68555		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	A5DQP9		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P80709		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q39758		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P60010		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P53689		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	O65315		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q11212		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P53502		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P60011		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q05214		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P53499		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q6TCF2		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P81085		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P26182		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q99023		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q24733		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	O81221		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P45521		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P60009		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	O13419		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P50138		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	Q9UVF3		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P53498		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P13363		S4	Swiss-Prot
+unknown	gene/protein	337	342	actin	Actin	P10365		S4	Swiss-Prot
+unknown	molecular_function	337	350	actin-binding	actin binding	GO:0003779		S4	Gene Ontology
+unknown	sequence	343	350	binding	non_covalent_binding_site	SO:0001091		S4	Sequence Ontology
+unknown	molecular_function	343	350	binding	binding	GO:0005488		S4	Gene Ontology
+unknown	sequence	343	350	binding	polypeptide_binding_motif	SO:0100018		S4	Sequence Ontology
+unknown	sequence	351	357	domain	polypeptide_domain	SO:0000417		S4	Sequence Ontology
+unknown	cell_line	413	416	O12	JHU-012	CVCL_5987		S5	Cellosaurus
+unknown	organism	420	431	Escherichia	Escherichia	D004925		S5	MeSH desc (Organisms)
+unknown	organism	420	436	Escherichia coli	Escherichia coli	D004926		S5	MeSH desc (Organisms)
+unknown	organism	420	436	Escherichia coli	Escherichia coli	562		S5	NCBI Taxonomy
+unknown	sequence	456	465	enzymatic	enzymatic	SO:0001185		S5	Sequence Ontology
+unknown	organism	496	501	other	unidentified	32644		S5	NCBI Taxonomy
+unknown	cellular_component	516	527	microtubule	microtubule	GO:0005874		S6	Gene Ontology
+unknown	chemical	538	544	ATPase	Adenosine Triphosphatases	D000251		S6	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	538	544	ATPase	Inorganic triphosphatase	A3DIJ8		S6	Swiss-Prot
+unknown	gene/protein	538	544	ATPase	Triphosphate tunel metalloenzyme 3	Q9SIY3		S6	Swiss-Prot
+unknown	molecular_function	538	553	ATPase activity	ATPase activity	GO:0016887		S6	Gene Ontology
+unknown	cell_line	569	572	O12	JHU-012	CVCL_5987		S6	Cellosaurus
+unknown	gene/protein	654	659	actin	Actin	P51775		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q9UVX4		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P53477		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P53491		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P24902		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q8SWN8		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q92193		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P17128		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P48465		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P20904		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P45520		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	O65316		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P26183		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q9P4D1		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	O17320		S6	Swiss-Prot
+unknown	chemical	654	659	actin	Actins	D000199		S6	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	654	659	actin	Actin	Q9UVZ8		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P53500		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P53476		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	O65314		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	O00937		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q2U7A3		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P91754		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q92192		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P53455		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q8X119		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	O16808		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q39596		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P90689		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P10989		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P11426		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P78711		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	O74258		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P14235		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P30161		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q75D00		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P68555		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	A5DQP9		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P80709		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q39758		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P60010		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P53689		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	O65315		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q11212		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P53502		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P60011		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q05214		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P53499		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q6TCF2		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P81085		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P26182		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q99023		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q24733		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	O81221		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P45521		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P60009		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	O13419		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P50138		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	Q9UVF3		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P53498		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P13363		S6	Swiss-Prot
+unknown	gene/protein	654	659	actin	Actin	P10365		S6	Swiss-Prot
+unknown	cellular_component	676	687	microtubule	microtubule	GO:0005874		S7	Gene Ontology
+unknown	chemical	698	704	ATPase	Adenosine Triphosphatases	D000251		S7	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	698	704	ATPase	Inorganic triphosphatase	A3DIJ8		S7	Swiss-Prot
+unknown	gene/protein	698	704	ATPase	Triphosphate tunel metalloenzyme 3	Q9SIY3		S7	Swiss-Prot
+unknown	molecular_function	698	713	ATPase activity	ATPase activity	GO:0016887		S7	Gene Ontology
+unknown	sequence	727	733	domain	polypeptide_domain	SO:0000417		S7	Sequence Ontology
+unknown	gene/protein	755	760	actin	Actin	P51775		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q9UVX4		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P53477		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P53491		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P24902		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q8SWN8		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q92193		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P17128		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P48465		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P20904		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P45520		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	O65316		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P26183		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q9P4D1		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	O17320		S7	Swiss-Prot
+unknown	chemical	755	760	actin	Actins	D000199		S7	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	755	760	actin	Actin	Q9UVZ8		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P53500		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P53476		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	O65314		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	O00937		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q2U7A3		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P91754		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q92192		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P53455		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q8X119		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	O16808		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q39596		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P90689		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P10989		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P11426		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P78711		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	O74258		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P14235		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P30161		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q75D00		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P68555		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	A5DQP9		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P80709		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q39758		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P60010		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P53689		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	O65315		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q11212		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P53502		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P60011		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q05214		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P53499		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q6TCF2		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P81085		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P26182		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q99023		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q24733		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	O81221		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P45521		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P60009		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	O13419		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P50138		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	Q9UVF3		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P53498		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P13363		S7	Swiss-Prot
+unknown	gene/protein	755	760	actin	Actin	P10365		S7	Swiss-Prot
+unknown	sequence	786	792	domain	polypeptide_domain	SO:0000417		S7	Sequence Ontology
+unknown	molecular_function	824	838	motor activity	motor activity	GO:0003774		S8	Gene Ontology
+unknown	organism	846	850	rice	Oryza	D012275		S8	MeSH desc (Organisms)
+unknown	organism	846	850	rice	Oryza sativa	4530		S8	NCBI Taxonomy
+unknown	molecular_function	866	873	kinesin	microtubule motor activity	GO:0003777		S8	Gene Ontology
+unknown	chemical	866	873	kinesin	Kinesin	D016547		S8	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	866	877	kinesin O12	Kinesin-like protein KIN-14Q	Q0IMS9		S8	Swiss-Prot
+unknown	cell_line	874	877	O12	JHU-012	CVCL_5987		S8	Cellosaurus
+unknown	sequence	885	894	regulated	regulated	SO:0000119		S8	Sequence Ontology
+unknown	gene/protein	898	903	actin	Actin	P51775		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q9UVX4		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P53477		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P53491		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P24902		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q8SWN8		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q92193		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P17128		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P48465		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P20904		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P45520		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	O65316		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P26183		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q9P4D1		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	O17320		S8	Swiss-Prot
+unknown	chemical	898	903	actin	Actins	D000199		S8	MeSH desc (Chemicals and Drugs)
+unknown	gene/protein	898	903	actin	Actin	Q9UVZ8		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P53500		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P53476		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	O65314		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	O00937		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q2U7A3		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P91754		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q92192		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P53455		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q8X119		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	O16808		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q39596		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P90689		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P10989		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P11426		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P78711		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	O74258		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P14235		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P30161		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q75D00		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P68555		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	A5DQP9		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P80709		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q39758		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P60010		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P53689		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	O65315		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q11212		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P53502		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P60011		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q05214		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P53499		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q6TCF2		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P81085		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P26182		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q99023		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q24733		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	O81221		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P45521		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P60009		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	O13419		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P50138		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	Q9UVF3		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P53498		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P13363		S8	Swiss-Prot
+unknown	gene/protein	898	903	actin	Actin	P10365		S8	Swiss-Prot

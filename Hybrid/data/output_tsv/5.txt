@@ -1,0 +1,59 @@
+DOCUMENT ID	TYPE	START POSITION	END POSITION	MATCHED TERM	PREFERRED FORM	ENTITY ID	ZONE	SENTENCE ID	ORIGIN
+unknown	organism	0	4	Rice	Oryza	D012275		S1	MeSH desc (Organisms)
+unknown	organism	0	4	Rice	Oryza sativa	4530		S1	NCBI Taxonomy
+unknown	chemical	11	24	nicotianamine	nicotianamine	C082893		S1	MeSH supp (Chemicals and Drugs)
+unknown	chemical	11	24	nicotianamine	(S,S,S)-nicotianamine	CHEBI:17721		S1	ChEBI
+unknown	chemical	11	24	nicotianamine	nicotianamine	CHEBI:25520		S1	ChEBI
+unknown	chemical	11	24	nicotianamine	(S,S,S)-nicotianamine trizwitterion	CHEBI:58249		S1	ChEBI
+unknown	gene/protein	38	44	OsYSL2	Metal-nicotianamine transporter YSL2	Q6H3Z6		S1	Swiss-Prot
+unknown	biological_process	80	89	transport	transport	GO:0006810		S1	Gene Ontology
+unknown	chemical	93	97	iron	iron atom	CHEBI:18248		S1	ChEBI
+unknown	chemical	102	111	manganese	manganese(0)	CHEBI:35154		S1	ChEBI
+unknown	chemical	102	111	manganese	manganese atom	CHEBI:18291		S1	ChEBI
+unknown	chemical	102	111	manganese	Manganese	D008345		S1	MeSH desc (Chemicals and Drugs)
+unknown	organism	113	117	Rice	Oryza	D012275		S2	MeSH desc (Organisms)
+unknown	organism	113	117	Rice	Oryza sativa	4530		S2	NCBI Taxonomy
+unknown	organism	118	123	Oryza	Oryza	D012275		S2	MeSH desc (Organisms)
+unknown	organism	118	130	Oryza sativa	Oryza	D012275		S2	MeSH desc (Organisms)
+unknown	organism	118	130	Oryza sativa	Oryza sativa (Indica Group) x Oryza nivara	311553		S2	NCBI Taxonomy
+unknown	organism	118	130	Oryza sativa	Oryza sativa	4530		S2	NCBI Taxonomy
+unknown	chemical	245	249	iron	iron atom	CHEBI:18248		S3	ChEBI
+unknown	biological_process	253	259	uptake	import into cell	GO:0098657		S3	Gene Ontology
+unknown	biological_process	264	275	homeostasis	homeostatic process	GO:0042592		S3	Gene Ontology
+unknown	gene/protein	348	354	OsYSL2	Metal-nicotianamine transporter YSL2	Q6H3Z6		S4	Swiss-Prot
+unknown	chemical	369	373	iron	iron atom	CHEBI:18248		S4	ChEBI
+unknown	chemical	386	395	manganese	manganese(0)	CHEBI:35154		S4	ChEBI
+unknown	chemical	386	395	manganese	manganese atom	CHEBI:18291		S4	ChEBI
+unknown	chemical	386	395	manganese	Manganese	D008345		S4	MeSH desc (Chemicals and Drugs)
+unknown	chemical	403	416	nicotianamine	nicotianamine	C082893		S4	MeSH supp (Chemicals and Drugs)
+unknown	chemical	403	416	nicotianamine	(S,S,S)-nicotianamine	CHEBI:17721		S4	ChEBI
+unknown	chemical	403	416	nicotianamine	nicotianamine	CHEBI:25520		S4	ChEBI
+unknown	chemical	403	416	nicotianamine	(S,S,S)-nicotianamine trizwitterion	CHEBI:58249		S4	ChEBI
+unknown	sequence	417	424	complex	complex_structural_alteration	SO:0001784		S4	Sequence Ontology
+unknown	biological_process	505	509	RNAi	RNA interference	GO:0016246		S5	Gene Ontology
+unknown	gene/protein	510	516	OsYSL2	Metal-nicotianamine transporter YSL2	Q6H3Z6		S5	Swiss-Prot
+unknown	gene/protein	555	561	OsYSL2	Metal-nicotianamine transporter YSL2	Q6H3Z6		S5	Swiss-Prot
+unknown	gene/protein	593	599	OsYSL2	Metal-nicotianamine transporter YSL2	Q6H3Z6		S6	Swiss-Prot
+unknown	chemical	746	754	positron	positron	CHEBI:30225		S7	ChEBI
+unknown	chemical	764	770	tracer	spinosad	CHEBI:39211		S7	ChEBI
+unknown	chemical	764	770	tracer	tracer	CHEBI:35204		S7	ChEBI
+unknown	sequence	812	825	translocation	translocation	SO:0000199		S7	Sequence Ontology
+unknown	gene/protein	868	874	OsYSL2	Metal-nicotianamine transporter YSL2	Q6H3Z6		S7	Swiss-Prot
+unknown	gene/protein	937	943	OsYSL2	Metal-nicotianamine transporter YSL2	Q6H3Z6		S8	Swiss-Prot
+unknown	sequence	1096	1105	wild type	wild_type	SO:0000817		S9	Sequence Ontology
+unknown	gene/protein	1125	1131	OsYSL2	Metal-nicotianamine transporter YSL2	Q6H3Z6		S10	Swiss-Prot
+unknown	chemical	1161	1168	sucrose	Sucrose	D013395		S10	MeSH desc (Chemicals and Drugs)
+unknown	chemical	1161	1168	sucrose	sucrose	CHEBI:17992		S10	ChEBI
+unknown	sequence	1181	1189	promoter	promoter	SO:0000167		S10	Sequence Ontology
+unknown	organism	1228	1232	rice	Oryza	D012275		S10	MeSH desc (Organisms)
+unknown	organism	1228	1232	rice	Oryza sativa	4530		S10	NCBI Taxonomy
+unknown	gene/protein	1247	1251	fold	bifunctional protein FolD	PR:000022679		S10	Protein Ontology
+unknown	sequence	1277	1286	wild type	wild_type	SO:0000817		S10	Sequence Ontology
+unknown	gene/protein	1342	1348	OsYSL2	Metal-nicotianamine transporter YSL2	Q6H3Z6		S11	Swiss-Prot
+unknown	biological_process	1361	1373	localization	localization	GO:0051179		S11	Gene Ontology
+unknown	gene/protein	1390	1396	OsYSL2	Metal-nicotianamine transporter YSL2	Q6H3Z6		S11	Swiss-Prot
+unknown	chemical	1414	1427	nicotianamine	nicotianamine	C082893		S11	MeSH supp (Chemicals and Drugs)
+unknown	chemical	1414	1427	nicotianamine	(S,S,S)-nicotianamine	CHEBI:17721		S11	ChEBI
+unknown	chemical	1414	1427	nicotianamine	nicotianamine	CHEBI:25520		S11	ChEBI
+unknown	chemical	1414	1427	nicotianamine	(S,S,S)-nicotianamine trizwitterion	CHEBI:58249		S11	ChEBI
+unknown	sequence	1457	1470	translocation	translocation	SO:0000199		S11	Sequence Ontology
